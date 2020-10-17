@@ -35,14 +35,14 @@ You can find me on [<img alt="Linkedin" width="18px" src="https://content.linked
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <a href="">
+  <a href="#">
     <img alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true">
   </a>
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <a href="">
+  <a href="#test">
     <img alt="alexandre-abrioux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact">
   </a>
 </details>
