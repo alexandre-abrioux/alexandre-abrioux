@@ -3,7 +3,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
 
 My name is Alexandre Abrioux, and I'm a web developer / devops engineer.<br>
-I'm from France, living in Paris, and currently working at [Alzohis](https://www.alzohis.com/), a biotechnology company.
+I'm from France, living in Paris, and currently working at [Alzohis](https://www.alzohis.com/), a biotechnology company.<br>
 You can find me on [<img alt="Linkedin" width="18px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">][linkedin].
 
 ### Languages and Tools:
