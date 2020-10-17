@@ -26,6 +26,7 @@ You can find me on [<img alt="Linkedin" height="15px" src="https://content.linke
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#368](https://github.com/symfony/monolog-bundle/issues/368) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
 2. 🗣 Commented on [#361](https://github.com/symfony/monolog-bundle/issues/361) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
@@ -33,18 +34,19 @@ You can find me on [<img alt="Linkedin" height="15px" src="https://content.linke
 4. ❗️ Opened issue [#361](https://github.com/symfony/monolog-bundle/issues/361) in [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle)
 5. 🗣 Commented on [#6](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/6) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <a href="#">
-    <img alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true">
-  </a>
+  
+  [<img alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true">](#)
+  
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <a href="#">
-    <img alt="alexandre-abrioux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact">
-  </a>
+  
+  [<img alt="alexandre-abrioux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact">](#)
+  
 </details>
