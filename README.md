@@ -27,8 +27,19 @@ You can find me on [<img alt="Linkedin" width="18px" src="https://content.linked
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</details>
 
-<img align="left"  alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true" />
-<img align="left"  alt="alexandre-abrioux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" width="30%" alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true" />
+</details>
+
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img align="left" width="30%" alt="alexandre-abrioux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact" />
+</details>
