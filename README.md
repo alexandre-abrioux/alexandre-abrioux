@@ -42,7 +42,7 @@ You can find me on [<img alt="Linkedin" width="18px" src="https://content.linked
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <a href="#test">
+  <a href="#">
     <img alt="alexandre-abrioux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact">
   </a>
 </details>
