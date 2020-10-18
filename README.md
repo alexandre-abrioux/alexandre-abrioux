@@ -26,7 +26,9 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
 [<img align="left" alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=Amazon-AWS&logoColor=white">](#)
 [<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white">](#)
 [<img align="left" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white">](#)
-[<img align="left" alt="ELK" src="https://img.shields.io/badge/-ELK-005571?logo=Elastic-Stack&logoColor=white">](#)
+[<img align="left" alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?logo=Elasticsearch&logoColor=white">](#)
+[<img align="left" alt="Logstash" src="https://img.shields.io/badge/-Logstash-005571?logo=Logstash&logoColor=white">](#)
+[<img align="left" alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?logo=Kibana&logoColor=white">](#)
 [<img align="left" alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?logo=Grafana&logoColor=white">](#)
 [<img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white">](#)
 
