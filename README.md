@@ -4,7 +4,7 @@
 
 My name is Alexandre Abrioux, and I'm a web developer / devops engineer.<br>
 I'm from France, living in Paris, and currently working at [Alzohis](https://www.alzohis.com/), a biotechnology company.<br>
-You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin]
+You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
 
 ### My Toolbox
 
