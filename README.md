@@ -28,10 +28,10 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-2. ❌ Closed PR [#1](https://github.com/alexandre-abrioux/mongodb-odm/pull/1) in [alexandre-abrioux/mongodb-odm](https://github.com/alexandre-abrioux/mongodb-odm)
-3. 💪 Opened PR [#1](https://github.com/alexandre-abrioux/mongodb-odm/pull/1) in [alexandre-abrioux/mongodb-odm](https://github.com/alexandre-abrioux/mongodb-odm)
-4. 💪 Opened PR [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-5. 🗣 Commented on [#2233](https://github.com/doctrine/mongodb-odm/issues/2233) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+2. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+3. ❌ Closed PR [#1](https://github.com/alexandre-abrioux/mongodb-odm/pull/1) in [alexandre-abrioux/mongodb-odm](https://github.com/alexandre-abrioux/mongodb-odm)
+4. 💪 Opened PR [#1](https://github.com/alexandre-abrioux/mongodb-odm/pull/1) in [alexandre-abrioux/mongodb-odm](https://github.com/alexandre-abrioux/mongodb-odm)
+5. 💪 Opened PR [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
 <!--END_SECTION:activity-->
 
 </details>
