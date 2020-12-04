@@ -28,10 +28,10 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#123](https://github.com/jellyfin/jellyfin-android/issues/123) in [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android)
-2. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-3. 💪 Opened PR [#2246](https://github.com/doctrine/mongodb-odm/pull/2246) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-4. ❗️ Opened issue [#2245](https://github.com/doctrine/mongodb-odm/issues/2245) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-5. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+2. 🗣 Commented on [#123](https://github.com/jellyfin/jellyfin-android/issues/123) in [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android)
+3. 🗣 Commented on [#123](https://github.com/jellyfin/jellyfin-android/issues/123) in [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android)
+4. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+5. 💪 Opened PR [#2246](https://github.com/doctrine/mongodb-odm/pull/2246) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
 <!--END_SECTION:activity-->
 
 </details>
