@@ -27,11 +27,11 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-2. 🗣 Commented on [#123](https://github.com/jellyfin/jellyfin-android/issues/123) in [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android)
-3. 🗣 Commented on [#123](https://github.com/jellyfin/jellyfin-android/issues/123) in [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android)
+1. 🎉 Merged PR [#1](https://github.com/alexandre-abrioux/golem-node/pull/1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🗣 Commented on [#1](https://github.com/alexandre-abrioux/golem-node/issues/1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
 4. 🗣 Commented on [#123](https://github.com/jellyfin/jellyfin-android/issues/123) in [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android)
-5. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+5. 🗣 Commented on [#123](https://github.com/jellyfin/jellyfin-android/issues/123) in [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android)
 <!--END_SECTION:activity-->
 
 </details>
