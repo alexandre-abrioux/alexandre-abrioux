@@ -27,11 +27,11 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/alexandre-abrioux/golem-node/issues/3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🗣 Commented on [#3](https://github.com/alexandre-abrioux/golem-node/issues/3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. ❗️ Closed issue [#2](https://github.com/alexandre-abrioux/golem-node/issues/2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🗣 Commented on [#2](https://github.com/alexandre-abrioux/golem-node/issues/2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+1. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+2. ❗️ Closed issue [#3](https://github.com/alexandre-abrioux/golem-node/issues/3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🗣 Commented on [#3](https://github.com/alexandre-abrioux/golem-node/issues/3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. ❗️ Closed issue [#2](https://github.com/alexandre-abrioux/golem-node/issues/2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🗣 Commented on [#2](https://github.com/alexandre-abrioux/golem-node/issues/2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
