@@ -6,6 +6,10 @@ My name is Alexandre Abrioux, and I'm a web developer / devops engineer.<br>
 I'm from France, living in Paris, and currently working at [Alzohis](https://www.alzohis.com/), a biotechnology company.<br>
 You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
 
+### News
+
+> [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node) recently won one of the four prizes allocated by the Golem Project on Gitcoin's [Hack New Golem](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) bounty! Read more on the [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/).
+
 ### My Toolbox
 
 |Language|Framework|Infra|Testing|Dev|CI|
