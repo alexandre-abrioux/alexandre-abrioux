@@ -24,6 +24,8 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
 |[<img align="left" alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=white">](#)|[<img align="left" alt="Mongoose" src="https://img.shields.io/badge/ODM-Mongoose-860000">](#)|[<img align="left" alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?logo=Kibana&logoColor=white">](#)||||
 ||[<img align="left" alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white">](#)|[<img align="left" alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?logo=Grafana&logoColor=white">](#)||||
 ||[<img align="left" alt="Harhat" src="https://img.shields.io/badge/-Hardhat-fff04d?logo=Hardhat&logoColor=white">](#)|[<img align="left" alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white">](#)||||
+||[<img align="left" alt="Truffle" src="https://img.shields.io/badge/-Truffle-5e464d?logo=Truffle&logoColor=white">](#)|||||
+||[<img align="left" alt="Ethers.js" src="https://img.shields.io/badge/-Ethers.js-2535a0?logo=Ethers.js&logoColor=white">](#)|||||
 
 ---
 
