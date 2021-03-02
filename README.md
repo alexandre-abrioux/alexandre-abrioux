@@ -14,7 +14,7 @@ My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) 
 
 #### January 14, 2021
 
-My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on the [related Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and take a look at my project over here: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
+My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on the relevant [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and take a look at my project over here: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
 
 ## :hammer: Featured Projects & Contributions
 
