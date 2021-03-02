@@ -1,12 +1,12 @@
 [linkedin]: https://www.linkedin.com/in/alexandre-abrioux/
 
-### :house: Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
+## :house: Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
 
 My name is Alexandre Abrioux, and I'm a web developer / devops engineer.<br>
 I'm from France, living in Paris, and currently working at [Alzohis](https://www.alzohis.com/), a biotechnology company.<br>
 You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
 
-### :mega: News
+## :mega: News
 
 #### February 2, 2021
 
@@ -16,7 +16,7 @@ My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) 
 
 My submission [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node) won one of the four prizes allocated to Gitcoin's [Hack New Golem](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) bounty by the Golem Project! Read more on [related  Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/).
 
-### :hammer: Featured Projects & Contributions
+## :hammer: Featured Projects & Contributions
 
 #### Blockchain
 
@@ -34,7 +34,7 @@ My submission [alexandre-abrioux/golem-node](https://github.com/alexandre-abriou
 - [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean) - a `gulp-rev` plugin to prune temporary files 
 - Contributed to [luin/ioredis](https://github.com/luin/ioredis) - a Redis client for Node.js
 
-### :wrench: My Toolbox
+## :wrench: My Toolbox
 
 |Language|Framework|Infra|Testing|Dev|CI|
 |-|-|-|-|-|-|
