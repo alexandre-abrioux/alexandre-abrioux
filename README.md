@@ -8,7 +8,31 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
 
 ### News
 
-> [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node) recently won one of the four prizes allocated by the Golem Project on Gitcoin's [Hack New Golem](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) bounty! Read more on the [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/).
+#### February 2, 2021
+
+My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was featured in one of their [Medium article](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e).
+
+#### January 14, 2021
+
+My submission [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node) won one of the four prizes allocated to Gitcoin's [Hack New Golem](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) bounty by the Golem Project! Read more on [related  Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/).
+
+### Featured Projects & Contributions
+
+#### Blockchain
+
+- [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node) - a Dockerized version of New Golem Node
+- Contributed to [cartesi/noether](https://github.com/cartesi/noether) - Cartesi's Noether Node
+
+#### PHP
+
+- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - Doctrine's ODM for MongoDB
+- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
+- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Symfony Bundle to serialize and deserialize data
+
+#### Node.js
+
+- [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean) - a `gulp-rev` plugin to prune temporary files 
+- Contributed to [luin/ioredis](https://github.com/luin/ioredis) - a Redis client for Node.js
 
 ### My Toolbox
 
