@@ -57,11 +57,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cartesi/noether/issues/1) in [cartesi/noether](https://github.com/cartesi/noether)
-2. 🎉 Merged PR [#4](https://github.com/alexandre-abrioux/golem-node/pull/4) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. ❗️ Closed issue [#6](https://github.com/alexandre-abrioux/golem-node/issues/6) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🗣 Commented on [#6](https://github.com/alexandre-abrioux/golem-node/issues/6) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🗣 Commented on [#4](https://github.com/alexandre-abrioux/golem-node/issues/4) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+2. 💪 Opened PR [#114](https://github.com/aave/aave-js/pull/114) in [aave/aave-js](https://github.com/aave/aave-js)
+3. 🗣 Commented on [#1](https://github.com/cartesi/noether/issues/1) in [cartesi/noether](https://github.com/cartesi/noether)
+4. 🎉 Merged PR [#4](https://github.com/alexandre-abrioux/golem-node/pull/4) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. ❗️ Closed issue [#6](https://github.com/alexandre-abrioux/golem-node/issues/6) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
