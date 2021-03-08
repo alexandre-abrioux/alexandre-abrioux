@@ -21,18 +21,19 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 #### Blockchain
 
 - [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node) - a Dockerized version of New Golem Node
-- Contributed to [cartesi/noether](https://github.com/cartesi/noether) - Cartesi's Noether Node
+- Contributed to [cartesi/noether](https://github.com/cartesi/noether) - Cartesi's Noether Node - in [#1](https://github.com/cartesi/noether/pull/1) (changes integrated [to the code base later on](https://github.com/cartesi/noether/commits?author=alexandre-abrioux) by the owners)
+- Contributed to [aave/aave-js](https://github.com/aave/aave-js) - AAVE Javascript SDK - in [#114](https://github.com/aave/aave-js/pull/114) (which was later moved to [#115](https://github.com/aave/aave-js/pull/115) and [#117](https://github.com/aave/aave-js/pull/117))
 
 #### PHP
 
-- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - Doctrine's ODM for MongoDB
-- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
-- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Symfony Bundle to serialize and deserialize data
+- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - Doctrine's ODM for MongoDB - in [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) and [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
+- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle - in [#368](https://github.com/symfony/monolog-bundle/pull/368)
+- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Symfony Bundle to serialize and deserialize data - in [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
 
 #### Node.js
 
 - [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean) - a `gulp-rev` plugin to prune temporary files 
-- Contributed to [luin/ioredis](https://github.com/luin/ioredis) - a Redis client for Node.js
+- Contributed to [luin/ioredis](https://github.com/luin/ioredis) - a Redis client for Node.js - in [#1137](https://github.com/luin/ioredis/pull/1137) and [#1139](https://github.com/luin/ioredis/pull/1139)
 
 ## :wrench: My Toolbox
 
