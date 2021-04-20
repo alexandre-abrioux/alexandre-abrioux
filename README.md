@@ -58,11 +58,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/alexandre-abrioux/golem-node/issues/10) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🗣 Commented on [#10](https://github.com/alexandre-abrioux/golem-node/issues/10) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🎉 Merged PR [#9](https://github.com/alexandre-abrioux/golem-node/pull/9) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#10](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/10) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
-5. 🎉 Merged PR [#8](https://github.com/alexandre-abrioux/golem-node/pull/8) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🎉 Merged PR [#11](https://github.com/alexandre-abrioux/golem-node/pull/11) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. ❗️ Closed issue [#10](https://github.com/alexandre-abrioux/golem-node/issues/10) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🗣 Commented on [#10](https://github.com/alexandre-abrioux/golem-node/issues/10) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🎉 Merged PR [#9](https://github.com/alexandre-abrioux/golem-node/pull/9) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🎉 Merged PR [#10](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/10) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
 <!--END_SECTION:activity-->
 
 </details>
