@@ -59,10 +59,10 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-2. 🗣 Commented on [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
-3. 🎉 Merged PR [#12](https://github.com/alexandre-abrioux/golem-node/pull/12) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#11](https://github.com/alexandre-abrioux/golem-node/pull/11) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. ❗️ Closed issue [#10](https://github.com/alexandre-abrioux/golem-node/issues/10) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+3. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+4. 🗣 Commented on [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+5. 🎉 Merged PR [#12](https://github.com/alexandre-abrioux/golem-node/pull/12) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
