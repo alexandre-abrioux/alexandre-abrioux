@@ -8,6 +8,10 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
 
 ## :mega: News
 
+#### May 26, 2021
+
+Added schema validation support to Doctrine MongoDB ODM. The [new feature has been merged](https://github.com/doctrine/mongodb-odm/pull/2238) and will be released in 2.3 version.
+
 #### March 2, 2021
 
 My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was featured in one of their [Medium article](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e).
