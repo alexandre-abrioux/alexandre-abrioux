@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-2. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-3. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-4. 🗣 Commented on [#2238](https://github.com/doctrine/mongodb-odm/issues/2238) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-5. 🗣 Commented on [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+1. ❗️ Closed issue [#3](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/3) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+2. 🗣 Commented on [#3](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/3) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+3. ❌ Closed PR [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+4. 🗣 Commented on [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+5. 🎉 Merged PR [#12](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/12) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
 <!--END_SECTION:activity-->
 
 </details>
