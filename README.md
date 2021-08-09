@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/3) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
-2. 🗣 Commented on [#3](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/3) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
-3. ❌ Closed PR [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
-4. 🗣 Commented on [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
-5. 🎉 Merged PR [#12](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/12) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+1. 💪 Opened PR [#3](https://github.com/cartesi/noether/pull/3) in [cartesi/noether](https://github.com/cartesi/noether)
+2. 💪 Opened PR [#2](https://github.com/cartesi/noether/pull/2) in [cartesi/noether](https://github.com/cartesi/noether)
+3. ❗️ Closed issue [#3](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/3) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+4. 🗣 Commented on [#3](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/3) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+5. ❌ Closed PR [#11](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/11) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
 <!--END_SECTION:activity-->
 
 </details>
