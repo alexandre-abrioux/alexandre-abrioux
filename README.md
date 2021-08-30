@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/cartesi/noether/issues/3) in [cartesi/noether](https://github.com/cartesi/noether)
-2. 🗣 Commented on [#2](https://github.com/cartesi/noether/issues/2) in [cartesi/noether](https://github.com/cartesi/noether)
-3. 💪 Opened PR [#3](https://github.com/cartesi/noether/pull/3) in [cartesi/noether](https://github.com/cartesi/noether)
-4. 💪 Opened PR [#2](https://github.com/cartesi/noether/pull/2) in [cartesi/noether](https://github.com/cartesi/noether)
-5. ❗️ Closed issue [#3](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/3) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+1. ❗️ Opened issue [#299](https://github.com/TechnitiumSoftware/DnsServer/issues/299) in [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
+2. 🗣 Commented on [#3](https://github.com/cartesi/noether/issues/3) in [cartesi/noether](https://github.com/cartesi/noether)
+3. 🗣 Commented on [#2](https://github.com/cartesi/noether/issues/2) in [cartesi/noether](https://github.com/cartesi/noether)
+4. 💪 Opened PR [#3](https://github.com/cartesi/noether/pull/3) in [cartesi/noether](https://github.com/cartesi/noether)
+5. 💪 Opened PR [#2](https://github.com/cartesi/noether/pull/2) in [cartesi/noether](https://github.com/cartesi/noether)
 <!--END_SECTION:activity-->
 
 </details>
