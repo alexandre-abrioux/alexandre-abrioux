@@ -74,7 +74,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [<img alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true">](#)
+  [<img alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true">](#)
   
 </details>
 
