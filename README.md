@@ -3,7 +3,7 @@
 ## :house: Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
 
 My name is Alexandre Abrioux, and I'm a developer / devops engineer.<br>
-I'm from France, living in Paris, and currently working at [Alzohis](https://www.alzohis.com/), a biotechnology company.<br>
+I'm from France, living in Paris, and currently working at [Request](https://request.network/en/), an open network for invoices.<br>
 You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
 
 ## :mega: News
