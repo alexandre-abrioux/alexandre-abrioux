@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🗣 Commented on [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#129](https://github.com/soundcloud/api/issues/129) in [soundcloud/api](https://github.com/soundcloud/api)
-4. 💪 Opened PR [#102](https://github.com/soundcloud/soundcloud-javascript/pull/102) in [soundcloud/soundcloud-javascript](https://github.com/soundcloud/soundcloud-javascript)
-5. ❗️ Closed issue [#299](https://github.com/TechnitiumSoftware/DnsServer/issues/299) in [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer)
+1. 💪 Opened PR [#608](https://github.com/RequestNetwork/requestNetwork/pull/608) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. ❗️ Closed issue [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🗣 Commented on [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🗣 Commented on [#129](https://github.com/soundcloud/api/issues/129) in [soundcloud/api](https://github.com/soundcloud/api)
+5. 💪 Opened PR [#102](https://github.com/soundcloud/soundcloud-javascript/pull/102) in [soundcloud/soundcloud-javascript](https://github.com/soundcloud/soundcloud-javascript)
 <!--END_SECTION:activity-->
 
 </details>
