@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#608](https://github.com/RequestNetwork/requestNetwork/pull/608) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. ❗️ Closed issue [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🗣 Commented on [#129](https://github.com/soundcloud/api/issues/129) in [soundcloud/api](https://github.com/soundcloud/api)
-5. 💪 Opened PR [#102](https://github.com/soundcloud/soundcloud-javascript/pull/102) in [soundcloud/soundcloud-javascript](https://github.com/soundcloud/soundcloud-javascript)
+1. 🎉 Merged PR [#611](https://github.com/RequestNetwork/requestNetwork/pull/611) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🗣 Commented on [#611](https://github.com/RequestNetwork/requestNetwork/issues/611) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#611](https://github.com/RequestNetwork/requestNetwork/pull/611) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🎉 Merged PR [#609](https://github.com/RequestNetwork/requestNetwork/pull/609) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 💪 Opened PR [#609](https://github.com/RequestNetwork/requestNetwork/pull/609) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
