@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/cartesi/noether/issues/2) in [cartesi/noether](https://github.com/cartesi/noether)
-2. 🎉 Merged PR [#617](https://github.com/RequestNetwork/requestNetwork/pull/617) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 🗣 Commented on [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#614](https://github.com/RequestNetwork/requestNetwork/pull/614) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#617](https://github.com/RequestNetwork/requestNetwork/pull/617) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#638](https://github.com/RequestNetwork/requestNetwork/pull/638) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#638](https://github.com/RequestNetwork/requestNetwork/pull/638) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🗣 Commented on [#2](https://github.com/cartesi/noether/issues/2) in [cartesi/noether](https://github.com/cartesi/noether)
+4. 🎉 Merged PR [#617](https://github.com/RequestNetwork/requestNetwork/pull/617) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#13](https://github.com/alexandre-abrioux/golem-node/issues/13) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
