@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/hg-pyun/axios-logger/pull/97) in [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger)
-2. 🎉 Merged PR [#638](https://github.com/RequestNetwork/requestNetwork/pull/638) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#638](https://github.com/RequestNetwork/requestNetwork/pull/638) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🗣 Commented on [#2](https://github.com/cartesi/noether/issues/2) in [cartesi/noether](https://github.com/cartesi/noether)
-5. 🎉 Merged PR [#617](https://github.com/RequestNetwork/requestNetwork/pull/617) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 💪 Opened PR [#639](https://github.com/RequestNetwork/requestNetwork/pull/639) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. ❌ Closed PR [#615](https://github.com/RequestNetwork/requestNetwork/pull/615) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#97](https://github.com/hg-pyun/axios-logger/pull/97) in [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger)
+4. 🎉 Merged PR [#638](https://github.com/RequestNetwork/requestNetwork/pull/638) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 💪 Opened PR [#638](https://github.com/RequestNetwork/requestNetwork/pull/638) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
