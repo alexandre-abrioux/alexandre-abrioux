@@ -62,11 +62,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1961](https://github.com/winstonjs/winston/pull/1961) in [winstonjs/winston](https://github.com/winstonjs/winston)
-2. 🎉 Merged PR [#659](https://github.com/RequestNetwork/requestNetwork/pull/659) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#659](https://github.com/RequestNetwork/requestNetwork/pull/659) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#653](https://github.com/RequestNetwork/requestNetwork/pull/653) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#653](https://github.com/RequestNetwork/requestNetwork/pull/653) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. ❗️ Opened issue [#93](https://github.com/qdm12/dns/issues/93) in [qdm12/dns](https://github.com/qdm12/dns)
+2. 💪 Opened PR [#1961](https://github.com/winstonjs/winston/pull/1961) in [winstonjs/winston](https://github.com/winstonjs/winston)
+3. 🎉 Merged PR [#659](https://github.com/RequestNetwork/requestNetwork/pull/659) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 💪 Opened PR [#659](https://github.com/RequestNetwork/requestNetwork/pull/659) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🎉 Merged PR [#653](https://github.com/RequestNetwork/requestNetwork/pull/653) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
