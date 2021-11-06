@@ -63,11 +63,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/cartesi/noether/pull/6) in [cartesi/noether](https://github.com/cartesi/noether)
-2. 🗣 Commented on [#93](https://github.com/qdm12/dns/issues/93) in [qdm12/dns](https://github.com/qdm12/dns)
-3. ❗️ Opened issue [#93](https://github.com/qdm12/dns/issues/93) in [qdm12/dns](https://github.com/qdm12/dns)
-4. 💪 Opened PR [#1961](https://github.com/winstonjs/winston/pull/1961) in [winstonjs/winston](https://github.com/winstonjs/winston)
-5. 🎉 Merged PR [#659](https://github.com/RequestNetwork/requestNetwork/pull/659) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 💪 Opened PR [#670](https://github.com/RequestNetwork/requestNetwork/pull/670) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#6](https://github.com/cartesi/noether/pull/6) in [cartesi/noether](https://github.com/cartesi/noether)
+3. 🗣 Commented on [#93](https://github.com/qdm12/dns/issues/93) in [qdm12/dns](https://github.com/qdm12/dns)
+4. ❗️ Opened issue [#93](https://github.com/qdm12/dns/issues/93) in [qdm12/dns](https://github.com/qdm12/dns)
+5. 💪 Opened PR [#1961](https://github.com/winstonjs/winston/pull/1961) in [winstonjs/winston](https://github.com/winstonjs/winston)
 <!--END_SECTION:activity-->
 
 </details>
