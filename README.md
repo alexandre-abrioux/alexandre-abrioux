@@ -63,11 +63,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/Place1/wg-access-server/issues/158) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
-2. 🎉 Merged PR [#691](https://github.com/RequestNetwork/requestNetwork/pull/691) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#691](https://github.com/RequestNetwork/requestNetwork/pull/691) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#16](https://github.com/RequestNetwork/request-helm-charts/pull/16) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-5. 💪 Opened PR [#16](https://github.com/RequestNetwork/request-helm-charts/pull/16) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+1. 💪 Opened PR [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866) in [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
+2. 💪 Opened PR [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2) in [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart)
+3. 💪 Opened PR [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) in [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart)
+4. 🗣 Commented on [#158](https://github.com/Place1/wg-access-server/issues/158) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
+5. 🎉 Merged PR [#691](https://github.com/RequestNetwork/requestNetwork/pull/691) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
