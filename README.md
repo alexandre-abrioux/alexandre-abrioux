@@ -37,6 +37,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 #### Node.js
 
 - [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean) - a `gulp-rev` plugin to prune temporary files 
+- Contributed to [winstonjs/winston](https://github.com/winstonjs/winston) - a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
 - Contributed to [luin/ioredis](https://github.com/luin/ioredis) - a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
 - Contributed to [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger) - an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
 
