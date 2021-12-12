@@ -64,11 +64,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866) in [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
-2. 💪 Opened PR [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2) in [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart)
-3. 💪 Opened PR [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) in [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart)
-4. 🗣 Commented on [#158](https://github.com/Place1/wg-access-server/issues/158) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
-5. 🎉 Merged PR [#691](https://github.com/RequestNetwork/requestNetwork/pull/691) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 💪 Opened PR [#266](https://github.com/sindresorhus/gulp-rev/pull/266) in [sindresorhus/gulp-rev](https://github.com/sindresorhus/gulp-rev)
+2. 🗣 Commented on [#21](https://github.com/callumacrae/rev-del/issues/21) in [callumacrae/rev-del](https://github.com/callumacrae/rev-del)
+3. 🗣 Commented on [#13](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/13) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+4. 🎉 Merged PR [#14](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/pull/14) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
+5. ❗️ Closed issue [#13](https://github.com/alexandre-abrioux/gulp-rev-dist-clean/issues/13) in [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean)
 <!--END_SECTION:activity-->
 
 </details>
