@@ -64,11 +64,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2866](https://github.com/shadowsocks/shadowsocks-libev/issues/2866) in [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
-2. 💪 Opened PR [#34](https://github.com/voronianski/soundcloud-audio.js/pull/34) in [voronianski/soundcloud-audio.js](https://github.com/voronianski/soundcloud-audio.js)
-3. 🎉 Merged PR [#4](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/4) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-4. 💪 Opened PR [#4](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/4) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-5. 🎉 Merged PR [#711](https://github.com/RequestNetwork/requestNetwork/pull/711) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#710](https://github.com/RequestNetwork/requestNetwork/pull/710) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🗣 Commented on [#2866](https://github.com/shadowsocks/shadowsocks-libev/issues/2866) in [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
+3. 💪 Opened PR [#34](https://github.com/voronianski/soundcloud-audio.js/pull/34) in [voronianski/soundcloud-audio.js](https://github.com/voronianski/soundcloud-audio.js)
+4. 🎉 Merged PR [#4](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/4) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+5. 💪 Opened PR [#4](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/4) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
 <!--END_SECTION:activity-->
 
 </details>
