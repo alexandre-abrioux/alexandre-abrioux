@@ -64,11 +64,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#710](https://github.com/RequestNetwork/requestNetwork/pull/710) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🗣 Commented on [#2866](https://github.com/shadowsocks/shadowsocks-libev/issues/2866) in [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
-3. 💪 Opened PR [#34](https://github.com/voronianski/soundcloud-audio.js/pull/34) in [voronianski/soundcloud-audio.js](https://github.com/voronianski/soundcloud-audio.js)
-4. 🎉 Merged PR [#4](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/4) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-5. 💪 Opened PR [#4](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/4) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+1. ❗️ Closed issue [#14](https://github.com/alexandre-abrioux/golem-node/issues/14) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🗣 Commented on [#14](https://github.com/alexandre-abrioux/golem-node/issues/14) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🎉 Merged PR [#16](https://github.com/alexandre-abrioux/golem-node/pull/16) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. ❌ Closed PR [#15](https://github.com/alexandre-abrioux/golem-node/pull/15) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🎉 Merged PR [#710](https://github.com/RequestNetwork/requestNetwork/pull/710) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
