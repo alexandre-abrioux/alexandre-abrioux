@@ -6,40 +6,49 @@ My name is Alexandre Abrioux, and I'm a developer / devops engineer.<br>
 I'm from France, living in Paris, and currently working at [Request](https://request.network/en/), an open network for invoices.<br>
 You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
 
-## :mega: News
+## :mega: Logs
+
+#### March 22, 2022
+
+Just got my first contribution merged on the [`DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped) repository! I added type definitions for the [`ethereum-block-by-date`](https://www.npmjs.com/package/ethereum-block-by-date) npm package. The [PR has been accepted](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) and types are now available at [`@types/ethereum-block-by-date`](https://www.npmjs.com/package/@types/ethereum-block-by-date).
+
+#### February 15, 2022
+
+Started working on adding support for the EIP-1559 to Cartesi's Noether Node. The [PR](https://github.com/cartesi/noether/pull/9) has been submitted for review.
 
 #### May 26, 2021
 
-Added schema validation support to Doctrine MongoDB ODM. The [new feature has been merged](https://github.com/doctrine/mongodb-odm/pull/2238) and will be released in 2.3 version.
+Added schema validation support to Doctrine MongoDB ODM. The [new feature has been merged](https://github.com/doctrine/mongodb-odm/pull/2238) and will be released in version 2.3.
 
 #### March 2, 2021
 
-My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was featured in one of their [Medium article](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e).
+My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was featured in one of their [Medium article](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e). It is related to improving the gas price estimation when submitting new blocks.
 
 #### January 14, 2021
 
-My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on the relevant [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and take a look at my project over here: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
+My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and take a look at the project over here: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
 
 ## :hammer: Featured Projects & Contributions
 
 #### Blockchain
 
-- [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node) - a Dockerized version of New Golem Node
-- Contributed to [cartesi/noether](https://github.com/cartesi/noether) - Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1)
-- Contributed to [aave/aave-js](https://github.com/aave/aave-js) - AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
+- Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
+- Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1)
+- Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
+- Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366
 
 #### PHP
 
-- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
-- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
-- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
+- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm), Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
+- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle), Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
+- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
 
 #### Node.js
 
-- [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean) - a `gulp-rev` plugin to prune temporary files 
-- Contributed to [winstonjs/winston](https://github.com/winstonjs/winston) - a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
-- Contributed to [luin/ioredis](https://github.com/luin/ioredis) - a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
-- Contributed to [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger) - an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
+- Maintener of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a `gulp-rev` plugin to prune temporary files 
+- Contributed to [winstonjs/winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
+- Contributed to [luin/ioredis](https://github.com/luin/ioredis), a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
+- Contributed to [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
 
 ## :wrench: My Toolbox
 
