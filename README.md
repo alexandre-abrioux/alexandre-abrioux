@@ -73,11 +73,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/alexandre-abrioux/golem-node/pull/18) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🎉 Merged PR [#819](https://github.com/RequestNetwork/requestNetwork/pull/819) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#819](https://github.com/RequestNetwork/requestNetwork/pull/819) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 💪 Opened PR [#767](https://github.com/visionmedia/supertest/pull/767) in [visionmedia/supertest](https://github.com/visionmedia/supertest)
-5. 🗣 Commented on [#25](https://github.com/monosux/ethereum-block-by-date/issues/25) in [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date)
+1. 🗣 Commented on [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59762) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#25](https://github.com/monosux/ethereum-block-by-date/issues/25) in [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date)
+3. 💪 Opened PR [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59762) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 🎉 Merged PR [#18](https://github.com/alexandre-abrioux/golem-node/pull/18) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🎉 Merged PR [#819](https://github.com/RequestNetwork/requestNetwork/pull/819) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
