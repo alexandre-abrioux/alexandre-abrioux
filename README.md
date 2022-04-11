@@ -35,7 +35,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
 - Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1)
 - Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
-- Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366
+- Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - [#59366](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) - [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59762)
 
 #### PHP
 
@@ -49,6 +49,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [winstonjs/winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
 - Contributed to [luin/ioredis](https://github.com/luin/ioredis), a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
 - Contributed to [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
+
+#### Misc
+
+- Contributed to [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev), a lightweight secured SOCKS5 proxy - [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866)
+- Contributed to [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart), a Helm Chart for Shadowsocks - [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) - [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2)
 
 ## :wrench: My Toolbox
 
