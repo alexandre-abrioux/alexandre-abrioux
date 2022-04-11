@@ -33,7 +33,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 #### Blockchain
 
 - Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
-- Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1)
+- Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1) - [#3](https://github.com/cartesi/noether/pull/3)
 - Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
 - Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - [#59366](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) - [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59762)
 
