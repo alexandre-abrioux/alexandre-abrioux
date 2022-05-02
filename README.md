@@ -78,11 +78,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#837](https://github.com/RequestNetwork/requestNetwork/pull/837) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🎉 Merged PR [#833](https://github.com/RequestNetwork/requestNetwork/pull/833) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#833](https://github.com/RequestNetwork/requestNetwork/pull/833) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. ❗️ Closed issue [#25](https://github.com/monosux/ethereum-block-by-date/issues/25) in [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date)
-5. 💪 Opened PR [#828](https://github.com/RequestNetwork/requestNetwork/pull/828) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 💪 Opened PR [#12](https://github.com/cartesi/noether/pull/12) in [cartesi/noether](https://github.com/cartesi/noether)
+2. 🗣 Commented on [#9](https://github.com/cartesi/noether/issues/9) in [cartesi/noether](https://github.com/cartesi/noether)
+3. 💪 Opened PR [#837](https://github.com/RequestNetwork/requestNetwork/pull/837) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🎉 Merged PR [#833](https://github.com/RequestNetwork/requestNetwork/pull/833) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 💪 Opened PR [#833](https://github.com/RequestNetwork/requestNetwork/pull/833) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
