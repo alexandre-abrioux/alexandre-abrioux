@@ -78,11 +78,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/alexandre-abrioux/golem-node/pull/19) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 💪 Opened PR [#63](https://github.com/justb4/docker-jmeter/pull/63) in [justb4/docker-jmeter](https://github.com/justb4/docker-jmeter)
-3. 🗣 Commented on [#9](https://github.com/RequestNetwork/docker-images/issues/9) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
-4. 🎉 Merged PR [#9](https://github.com/RequestNetwork/docker-images/pull/9) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
-5. 💪 Opened PR [#9](https://github.com/RequestNetwork/docker-images/pull/9) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
+1. 🎉 Merged PR [#859](https://github.com/RequestNetwork/requestNetwork/pull/859) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#859](https://github.com/RequestNetwork/requestNetwork/pull/859) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🗣 Commented on [#13](https://github.com/RequestNetwork/docker-images/issues/13) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
+4. 🎉 Merged PR [#19](https://github.com/alexandre-abrioux/golem-node/pull/19) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 💪 Opened PR [#63](https://github.com/justb4/docker-jmeter/pull/63) in [justb4/docker-jmeter](https://github.com/justb4/docker-jmeter)
 <!--END_SECTION:activity-->
 
 </details>
