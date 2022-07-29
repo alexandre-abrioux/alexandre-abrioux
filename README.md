@@ -78,11 +78,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#885](https://github.com/RequestNetwork/requestNetwork/issues/885) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🗣 Commented on [#2452](https://github.com/doctrine/mongodb-odm/issues/2452) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
-3. 🗣 Commented on [#25](https://github.com/monosux/ethereum-block-by-date/issues/25) in [monosux/ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date)
-4. 🗣 Commented on [#61450](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/61450) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🗣 Commented on [#2452](https://github.com/doctrine/mongodb-odm/issues/2452) in [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm)
+1. ❌ Closed PR [#881](https://github.com/RequestNetwork/requestNetwork/pull/881) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🗣 Commented on [#881](https://github.com/RequestNetwork/requestNetwork/issues/881) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. ❌ Closed PR [#889](https://github.com/RequestNetwork/requestNetwork/pull/889) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🗣 Commented on [#889](https://github.com/RequestNetwork/requestNetwork/issues/889) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#885](https://github.com/RequestNetwork/requestNetwork/issues/885) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
