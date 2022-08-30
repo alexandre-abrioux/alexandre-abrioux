@@ -79,10 +79,10 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9275](https://github.com/traefik/traefik/issues/9275) in [traefik/traefik](https://github.com/traefik/traefik)
-2. 💪 Opened PR [#9275](https://github.com/traefik/traefik/pull/9275) in [traefik/traefik](https://github.com/traefik/traefik)
-3. 🎉 Merged PR [#902](https://github.com/RequestNetwork/requestNetwork/pull/902) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 💪 Opened PR [#902](https://github.com/RequestNetwork/requestNetwork/pull/902) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. ❌ Closed PR [#881](https://github.com/RequestNetwork/requestNetwork/pull/881) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🗣 Commented on [#9275](https://github.com/traefik/traefik/issues/9275) in [traefik/traefik](https://github.com/traefik/traefik)
+3. 💪 Opened PR [#9275](https://github.com/traefik/traefik/pull/9275) in [traefik/traefik](https://github.com/traefik/traefik)
+4. 🎉 Merged PR [#902](https://github.com/RequestNetwork/requestNetwork/pull/902) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 💪 Opened PR [#902](https://github.com/RequestNetwork/requestNetwork/pull/902) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
