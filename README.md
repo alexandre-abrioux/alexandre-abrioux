@@ -78,11 +78,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9275](https://github.com/traefik/traefik/issues/9275) in [traefik/traefik](https://github.com/traefik/traefik)
+1. ❗️ Opened issue [#9](https://github.com/svsool/axios-better-stacktrace/issues/9) in [svsool/axios-better-stacktrace](https://github.com/svsool/axios-better-stacktrace)
 2. 🗣 Commented on [#9275](https://github.com/traefik/traefik/issues/9275) in [traefik/traefik](https://github.com/traefik/traefik)
-3. 💪 Opened PR [#9275](https://github.com/traefik/traefik/pull/9275) in [traefik/traefik](https://github.com/traefik/traefik)
-4. 🎉 Merged PR [#902](https://github.com/RequestNetwork/requestNetwork/pull/902) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#902](https://github.com/RequestNetwork/requestNetwork/pull/902) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🗣 Commented on [#9275](https://github.com/traefik/traefik/issues/9275) in [traefik/traefik](https://github.com/traefik/traefik)
+4. 💪 Opened PR [#9275](https://github.com/traefik/traefik/pull/9275) in [traefik/traefik](https://github.com/traefik/traefik)
+5. 🎉 Merged PR [#902](https://github.com/RequestNetwork/requestNetwork/pull/902) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
