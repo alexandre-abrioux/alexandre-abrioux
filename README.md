@@ -78,11 +78,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/alexandre-abrioux/golem-node/issues/20) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🗣 Commented on [#20](https://github.com/alexandre-abrioux/golem-node/issues/20) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#155](https://github.com/emeraldpay/dshackle/issues/155) in [emeraldpay/dshackle](https://github.com/emeraldpay/dshackle)
-4. ❗️ Opened issue [#9](https://github.com/svsool/axios-better-stacktrace/issues/9) in [svsool/axios-better-stacktrace](https://github.com/svsool/axios-better-stacktrace)
-5. 🗣 Commented on [#9275](https://github.com/traefik/traefik/issues/9275) in [traefik/traefik](https://github.com/traefik/traefik)
+1. 🗣 Commented on [#25](https://github.com/rainbow-me/fee-suggestions/issues/25) in [rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions)
+2. ❗️ Closed issue [#20](https://github.com/alexandre-abrioux/golem-node/issues/20) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🗣 Commented on [#20](https://github.com/alexandre-abrioux/golem-node/issues/20) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🗣 Commented on [#155](https://github.com/emeraldpay/dshackle/issues/155) in [emeraldpay/dshackle](https://github.com/emeraldpay/dshackle)
+5. ❗️ Opened issue [#9](https://github.com/svsool/axios-better-stacktrace/issues/9) in [svsool/axios-better-stacktrace](https://github.com/svsool/axios-better-stacktrace)
 <!--END_SECTION:activity-->
 
 </details>
