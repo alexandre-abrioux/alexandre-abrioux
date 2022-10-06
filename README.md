@@ -8,6 +8,10 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
 
 ## :mega: Logs
 
+#### October 3, 2022
+
+My first [contribution to supertest](https://github.com/visionmedia/supertest/pull/767) npm package got merged!
+
 #### March 22, 2022
 
 Just got my first contribution merged on the [`DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped) repository! I added type definitions for the [`ethereum-block-by-date`](https://www.npmjs.com/package/ethereum-block-by-date) npm package. The [PR has been accepted](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) and types are now available at [`@types/ethereum-block-by-date`](https://www.npmjs.com/package/@types/ethereum-block-by-date).
@@ -48,6 +52,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Maintener of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a `gulp-rev` plugin to prune temporary files 
 - Contributed to [winstonjs/winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
 - Contributed to [luin/ioredis](https://github.com/luin/ioredis), a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
+- Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
 - Contributed to [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
 
 #### Misc
