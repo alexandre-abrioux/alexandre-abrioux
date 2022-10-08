@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#939](https://github.com/RequestNetwork/requestNetwork/pull/939) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 💪 Opened PR [#938](https://github.com/RequestNetwork/requestNetwork/pull/938) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#937](https://github.com/RequestNetwork/requestNetwork/pull/937) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🗣 Commented on [#25](https://github.com/rainbow-me/fee-suggestions/issues/25) in [rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions)
-5. ❗️ Closed issue [#20](https://github.com/alexandre-abrioux/golem-node/issues/20) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🎉 Merged PR [#939](https://github.com/RequestNetwork/requestNetwork/pull/939) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🗣 Commented on [#925](https://github.com/RequestNetwork/requestNetwork/issues/925) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🗣 Commented on [#925](https://github.com/RequestNetwork/requestNetwork/issues/925) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🗣 Commented on [#938](https://github.com/RequestNetwork/requestNetwork/issues/938) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#765](https://github.com/RequestNetwork/requestNetwork/issues/765) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
