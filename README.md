@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#950](https://github.com/RequestNetwork/requestNetwork/pull/950) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 💪 Opened PR [#949](https://github.com/RequestNetwork/requestNetwork/pull/949) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#946](https://github.com/RequestNetwork/requestNetwork/pull/946) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 💪 Opened PR [#945](https://github.com/RequestNetwork/requestNetwork/pull/945) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 🎉 Merged PR [#937](https://github.com/RequestNetwork/requestNetwork/pull/937) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#949](https://github.com/RequestNetwork/requestNetwork/pull/949) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#950](https://github.com/RequestNetwork/requestNetwork/pull/950) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#949](https://github.com/RequestNetwork/requestNetwork/pull/949) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 💪 Opened PR [#946](https://github.com/RequestNetwork/requestNetwork/pull/946) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 💪 Opened PR [#945](https://github.com/RequestNetwork/requestNetwork/pull/945) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
