@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/alexandre-abrioux/golem-node/issues/21) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. ❗️ Closed issue [#21](https://github.com/alexandre-abrioux/golem-node/issues/21) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#21](https://github.com/alexandre-abrioux/golem-node/issues/21) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#972](https://github.com/RequestNetwork/requestNetwork/pull/972) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#972](https://github.com/RequestNetwork/requestNetwork/pull/972) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🗣 Commented on [#155](https://github.com/emeraldpay/dshackle/issues/155) in [emeraldpay/dshackle](https://github.com/emeraldpay/dshackle)
+2. 🗣 Commented on [#21](https://github.com/alexandre-abrioux/golem-node/issues/21) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. ❗️ Closed issue [#21](https://github.com/alexandre-abrioux/golem-node/issues/21) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🗣 Commented on [#21](https://github.com/alexandre-abrioux/golem-node/issues/21) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🎉 Merged PR [#972](https://github.com/RequestNetwork/requestNetwork/pull/972) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
