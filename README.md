@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#184](https://github.com/Place1/wg-access-server/pull/184) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
-2. 🗣 Commented on [#25](https://github.com/rainbow-me/fee-suggestions/issues/25) in [rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions)
-3. 🗣 Commented on [#25](https://github.com/rainbow-me/fee-suggestions/issues/25) in [rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions)
+1. 🗣 Commented on [#3](https://github.com/RequestNetwork/docs.request.finance/issues/3) in [RequestNetwork/docs.request.finance](https://github.com/RequestNetwork/docs.request.finance)
+2. 💪 Opened PR [#3](https://github.com/RequestNetwork/docs.request.finance/pull/3) in [RequestNetwork/docs.request.finance](https://github.com/RequestNetwork/docs.request.finance)
+3. 💪 Opened PR [#184](https://github.com/Place1/wg-access-server/pull/184) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
 4. 🗣 Commented on [#25](https://github.com/rainbow-me/fee-suggestions/issues/25) in [rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions)
-5. 🗣 Commented on [#982](https://github.com/RequestNetwork/requestNetwork/issues/982) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#25](https://github.com/rainbow-me/fee-suggestions/issues/25) in [rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions)
 <!--END_SECTION:activity-->
 
 </details>
