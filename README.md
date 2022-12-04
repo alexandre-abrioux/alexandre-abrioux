@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/RequestNetwork/payments-subgraph/issues/44) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-2. 🎉 Merged PR [#1004](https://github.com/RequestNetwork/requestNetwork/pull/1004) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#1004](https://github.com/RequestNetwork/requestNetwork/pull/1004) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#3](https://github.com/RequestNetwork/docs.request.finance/pull/3) in [RequestNetwork/docs.request.finance](https://github.com/RequestNetwork/docs.request.finance)
-5. 🎉 Merged PR [#1000](https://github.com/RequestNetwork/requestNetwork/pull/1000) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#23](https://github.com/alexandre-abrioux/golem-node/pull/23) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🗣 Commented on [#44](https://github.com/RequestNetwork/payments-subgraph/issues/44) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+3. 🎉 Merged PR [#1004](https://github.com/RequestNetwork/requestNetwork/pull/1004) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 💪 Opened PR [#1004](https://github.com/RequestNetwork/requestNetwork/pull/1004) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🎉 Merged PR [#3](https://github.com/RequestNetwork/docs.request.finance/pull/3) in [RequestNetwork/docs.request.finance](https://github.com/RequestNetwork/docs.request.finance)
 <!--END_SECTION:activity-->
 
 </details>
