@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1048](https://github.com/RequestNetwork/requestNetwork/pull/1048) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. ❗️ Closed issue [#25](https://github.com/alexandre-abrioux/golem-node/issues/25) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#25](https://github.com/alexandre-abrioux/golem-node/issues/25) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#1487](https://github.com/PowerShell/Win32-OpenSSH/issues/1487) in [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH)
+2. 💪 Opened PR [#1048](https://github.com/RequestNetwork/requestNetwork/pull/1048) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. ❗️ Closed issue [#25](https://github.com/alexandre-abrioux/golem-node/issues/25) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 4. 🗣 Commented on [#25](https://github.com/alexandre-abrioux/golem-node/issues/25) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🗣 Commented on [#1024](https://github.com/RequestNetwork/requestNetwork/issues/1024) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#25](https://github.com/alexandre-abrioux/golem-node/issues/25) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
