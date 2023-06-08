@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/benjlevesque/rf/pull/3) in [benjlevesque/rf](https://github.com/benjlevesque/rf)
-2. 🗣 Commented on [#173](https://github.com/Place1/wg-access-server/issues/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
-3. 🚀 Published release [v0.12.1](https://github.com/v0.12.1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#34](https://github.com/alexandre-abrioux/golem-node/pull/34) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🎉 Merged PR [#1109](https://github.com/RequestNetwork/requestNetwork/pull/1109) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🚀 Published release [v0.12.2](https://github.com/v0.12.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🎉 Merged PR [#35](https://github.com/alexandre-abrioux/golem-node/pull/35) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 💪 Opened PR [#3](https://github.com/benjlevesque/rf/pull/3) in [benjlevesque/rf](https://github.com/benjlevesque/rf)
+4. 🗣 Commented on [#173](https://github.com/Place1/wg-access-server/issues/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
+5. 🚀 Published release [v0.12.1](https://github.com/v0.12.1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
