@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.12.2](https://github.com/v0.12.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🎉 Merged PR [#35](https://github.com/alexandre-abrioux/golem-node/pull/35) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 💪 Opened PR [#3](https://github.com/benjlevesque/rf/pull/3) in [benjlevesque/rf](https://github.com/benjlevesque/rf)
-4. 🗣 Commented on [#173](https://github.com/Place1/wg-access-server/issues/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
-5. 🚀 Published release [v0.12.1](https://github.com/v0.12.1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. ❗ Opened issue [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
+2. 🚀 Published release [v0.12.2](https://github.com/v0.12.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🎉 Merged PR [#35](https://github.com/alexandre-abrioux/golem-node/pull/35) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 💪 Opened PR [#3](https://github.com/benjlevesque/rf/pull/3) in [benjlevesque/rf](https://github.com/benjlevesque/rf)
+5. 🗣 Commented on [#173](https://github.com/Place1/wg-access-server/issues/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
 <!--END_SECTION:activity-->
 
 </details>
