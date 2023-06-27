@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#397](https://github.com/freifunkMUC/wg-access-server/pull/397) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
-2. 🗣 Commented on [#1112](https://github.com/RequestNetwork/requestNetwork/issues/1112) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. ❌ Closed PR [#1112](https://github.com/RequestNetwork/requestNetwork/pull/1112) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. ❗ Opened issue [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
-5. 🚀 Published release [v0.12.2](https://github.com/v0.12.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
+2. 💪 Opened PR [#397](https://github.com/freifunkMUC/wg-access-server/pull/397) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
+3. 🗣 Commented on [#1112](https://github.com/RequestNetwork/requestNetwork/issues/1112) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. ❌ Closed PR [#1112](https://github.com/RequestNetwork/requestNetwork/pull/1112) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. ❗ Opened issue [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
 <!--END_SECTION:activity-->
 
 </details>
