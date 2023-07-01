@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
-2. 🗣 Commented on [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
-3. 💪 Opened PR [#397](https://github.com/freifunkMUC/wg-access-server/pull/397) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
-4. 🗣 Commented on [#1112](https://github.com/RequestNetwork/requestNetwork/issues/1112) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. ❌ Closed PR [#1112](https://github.com/RequestNetwork/requestNetwork/pull/1112) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🗣 Commented on [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
+4. 🗣 Commented on [#636](https://github.com/auth0/react-native-auth0/issues/636) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
+5. 💪 Opened PR [#397](https://github.com/freifunkMUC/wg-access-server/pull/397) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
 <!--END_SECTION:activity-->
 
 </details>
