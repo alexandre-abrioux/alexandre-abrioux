@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#401](https://github.com/freifunkMUC/wg-access-server/pull/401#issuecomment-1618161884) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
-2. 🗣 Commented on [#397](https://github.com/freifunkMUC/wg-access-server/pull/397#issuecomment-1618043085) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
-3. 🎉 Merged PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 💪 Opened PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 🗣 Commented on [#636](https://github.com/auth0/react-native-auth0/issues/636#issuecomment-1610953745) in [auth0/react-native-auth0](https://github.com/auth0/react-native-auth0)
+1. ❌ Closed PR [#173](https://github.com/Place1/wg-access-server/pull/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
+2. 🗣 Commented on [#401](https://github.com/freifunkMUC/wg-access-server/pull/401#issuecomment-1618161884) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
+3. 🗣 Commented on [#397](https://github.com/freifunkMUC/wg-access-server/pull/397#issuecomment-1618043085) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
+4. 🎉 Merged PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 💪 Opened PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
