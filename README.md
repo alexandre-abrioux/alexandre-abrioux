@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#173](https://github.com/Place1/wg-access-server/pull/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
-2. 🗣 Commented on [#401](https://github.com/freifunkMUC/wg-access-server/pull/401#issuecomment-1618161884) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
-3. 🗣 Commented on [#397](https://github.com/freifunkMUC/wg-access-server/pull/397#issuecomment-1618043085) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
-4. 🎉 Merged PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#1121](https://github.com/RequestNetwork/requestNetwork/pull/1121) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🚀 Published release [v0.12.3](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.12.3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🎉 Merged PR [#36](https://github.com/alexandre-abrioux/golem-node/pull/36) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. ❌ Closed PR [#173](https://github.com/Place1/wg-access-server/pull/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
+4. 🗣 Commented on [#401](https://github.com/freifunkMUC/wg-access-server/pull/401#issuecomment-1618161884) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
+5. 🗣 Commented on [#397](https://github.com/freifunkMUC/wg-access-server/pull/397#issuecomment-1618043085) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
 <!--END_SECTION:activity-->
 
 </details>
