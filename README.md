@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.12.3](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.12.3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🎉 Merged PR [#36](https://github.com/alexandre-abrioux/golem-node/pull/36) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. ❌ Closed PR [#173](https://github.com/Place1/wg-access-server/pull/173) in [Place1/wg-access-server](https://github.com/Place1/wg-access-server)
-4. 🗣 Commented on [#401](https://github.com/freifunkMUC/wg-access-server/pull/401#issuecomment-1618161884) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
-5. 🗣 Commented on [#397](https://github.com/freifunkMUC/wg-access-server/pull/397#issuecomment-1618043085) in [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server)
+1. 🎉 Merged PR [#3](https://github.com/RequestNetwork/storage-subgraph/pull/3) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+2. 💪 Opened PR [#3](https://github.com/RequestNetwork/storage-subgraph/pull/3) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+3. 🎉 Merged PR [#2](https://github.com/RequestNetwork/storage-subgraph/pull/2) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+4. 💪 Opened PR [#55](https://github.com/RequestNetwork/payments-subgraph/pull/55) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+5. 💪 Opened PR [#54](https://github.com/RequestNetwork/payments-subgraph/pull/54) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
 <!--END_SECTION:activity-->
 
 </details>
