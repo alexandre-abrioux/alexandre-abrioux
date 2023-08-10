@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/RequestNetwork/storage-subgraph/pull/3) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-2. 💪 Opened PR [#3](https://github.com/RequestNetwork/storage-subgraph/pull/3) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-3. 🎉 Merged PR [#2](https://github.com/RequestNetwork/storage-subgraph/pull/2) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-4. 💪 Opened PR [#55](https://github.com/RequestNetwork/payments-subgraph/pull/55) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-5. 💪 Opened PR [#54](https://github.com/RequestNetwork/payments-subgraph/pull/54) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+1. 🎉 Merged PR [#5](https://github.com/RequestNetwork/storage-subgraph/pull/5) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+2. 🎉 Merged PR [#6](https://github.com/RequestNetwork/storage-subgraph/pull/6) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+3. 💪 Opened PR [#6](https://github.com/RequestNetwork/storage-subgraph/pull/6) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+4. 💪 Opened PR [#5](https://github.com/RequestNetwork/storage-subgraph/pull/5) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+5. 🎉 Merged PR [#4](https://github.com/RequestNetwork/storage-subgraph/pull/4) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
 <!--END_SECTION:activity-->
 
 </details>
