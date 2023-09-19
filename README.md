@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/benjlevesque/hotfix/pull/1) in [benjlevesque/hotfix](https://github.com/benjlevesque/hotfix)
-2. 🎉 Merged PR [#55](https://github.com/RequestNetwork/payments-subgraph/pull/55) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-3. 🎉 Merged PR [#54](https://github.com/RequestNetwork/payments-subgraph/pull/54) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-4. 🎉 Merged PR [#7](https://github.com/RequestNetwork/storage-subgraph/pull/7) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-5. 🎉 Merged PR [#1135](https://github.com/RequestNetwork/requestNetwork/pull/1135) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 💪 Opened PR [#1](https://github.com/RequestNetwork/demo-api/pull/1) in [RequestNetwork/demo-api](https://github.com/RequestNetwork/demo-api)
+2. 💪 Opened PR [#1](https://github.com/benjlevesque/hotfix/pull/1) in [benjlevesque/hotfix](https://github.com/benjlevesque/hotfix)
+3. 🎉 Merged PR [#55](https://github.com/RequestNetwork/payments-subgraph/pull/55) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+4. 🎉 Merged PR [#54](https://github.com/RequestNetwork/payments-subgraph/pull/54) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+5. 🎉 Merged PR [#7](https://github.com/RequestNetwork/storage-subgraph/pull/7) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
 <!--END_SECTION:activity-->
 
 </details>
