@@ -84,11 +84,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RequestNetwork/demo-api/pull/1) in [RequestNetwork/demo-api](https://github.com/RequestNetwork/demo-api)
-2. 💪 Opened PR [#1](https://github.com/RequestNetwork/demo-api/pull/1) in [RequestNetwork/demo-api](https://github.com/RequestNetwork/demo-api)
-3. 💪 Opened PR [#1](https://github.com/benjlevesque/hotfix/pull/1) in [benjlevesque/hotfix](https://github.com/benjlevesque/hotfix)
-4. 🎉 Merged PR [#55](https://github.com/RequestNetwork/payments-subgraph/pull/55) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-5. 🎉 Merged PR [#54](https://github.com/RequestNetwork/payments-subgraph/pull/54) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+1. 🗣 Commented on [#37](https://github.com/alexandre-abrioux/golem-node/issues/37#issuecomment-1732086190) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🔒 Closed issue [#37](https://github.com/alexandre-abrioux/golem-node/issues/37) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 💪 Opened PR [#1359](https://github.com/release-drafter/release-drafter/pull/1359) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+4. 🎉 Merged PR [#1](https://github.com/RequestNetwork/demo-api/pull/1) in [RequestNetwork/demo-api](https://github.com/RequestNetwork/demo-api)
+5. 💪 Opened PR [#1](https://github.com/RequestNetwork/demo-api/pull/1) in [RequestNetwork/demo-api](https://github.com/RequestNetwork/demo-api)
 <!--END_SECTION:activity-->
 
 </details>
