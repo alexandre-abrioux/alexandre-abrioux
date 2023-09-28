@@ -8,6 +8,10 @@ You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linked
 
 ## :mega: Logs
 
+#### September 28, 2023
+
+Just contributed to the Cross-Desktop Group project (freedesktop.org)! See this [xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35) merge request. 
+
 #### October 3, 2022
 
 My first [contribution to supertest](https://github.com/visionmedia/supertest/pull/767) npm package got merged!
@@ -58,6 +62,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 
 #### Misc
 
+- Contributed to [xdg/xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils), a set of scripts for Free Desktop integration - [#35](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35)
 - Contributed to [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev), a lightweight secured SOCKS5 proxy - [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866)
 - Contributed to [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart), a Helm Chart for Shadowsocks - [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) - [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2)
 
