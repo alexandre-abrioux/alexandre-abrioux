@@ -86,7 +86,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1359](https://github.com/release-drafter/release-drafter/pull/1359) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
@@ -99,16 +99,17 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats (public repositories only)</summary>
 
-  [![alexandre-abrioux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true&theme=dark)](https://github.com/alexandre-abrioux#gh-dark-mode-only)
-  [![alexandre-abrioux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true&theme=default)](https://github.com/alexandre-abrioux#gh-light-mode-only)
+  [![alexandre-abrioux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=github_dark)](https://github.com/alexandre-abrioux#gh-dark-mode-only)
+  [![alexandre-abrioux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=default)](https://github.com/alexandre-abrioux#gh-light-mode-only)
   
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
-  
-  [<img alt="alexandre-abrioux's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact">](#)
+  <summary>:zap: Most Used Languages (own public repositories only)</summary>
+
+  [![alexandre-abrioux's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact&theme=github_dark)](https://github.com/alexandre-abrioux#gh-dark-mode-only)
+  [![alexandre-abrioux's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-abrioux&layout=compact&theme=default)](https://github.com/alexandre-abrioux#gh-light-mode-only)
   
 </details>
