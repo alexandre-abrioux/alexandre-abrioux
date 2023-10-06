@@ -100,9 +100,9 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  
-  [<img alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only">](#)
-  [<img alt="alexandre-abrioux's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true&theme=default#gh-light-mode-only">](#)
+
+  [![alexandre-abrioux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true&theme=dark)](https://github.com/alexandre-abrioux#gh-dark-mode-only)
+  [![alexandre-abrioux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-abrioux&show_icons=true&count_private=true&theme=default)](https://github.com/alexandre-abrioux#gh-light-mode-only)
   
 </details>
 
