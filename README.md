@@ -89,11 +89,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1187](https://github.com/RequestNetwork/requestNetwork/pull/1187) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🗣 Commented on [#1359](https://github.com/release-drafter/release-drafter/pull/1359#issuecomment-1735478681) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
-3. 🗣 Commented on [#37](https://github.com/alexandre-abrioux/golem-node/issues/37#issuecomment-1732086190) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🔒 Closed issue [#37](https://github.com/alexandre-abrioux/golem-node/issues/37) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 💪 Opened PR [#1359](https://github.com/release-drafter/release-drafter/pull/1359) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+1. ❌ Closed PR [#1359](https://github.com/release-drafter/release-drafter/pull/1359) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+2. 🗣 Commented on [#1359](https://github.com/release-drafter/release-drafter/pull/1359#issuecomment-1748725257) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+3. ❌ Closed PR [#1187](https://github.com/RequestNetwork/requestNetwork/pull/1187) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🗣 Commented on [#1359](https://github.com/release-drafter/release-drafter/pull/1359#issuecomment-1735478681) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+5. 🗣 Commented on [#37](https://github.com/alexandre-abrioux/golem-node/issues/37#issuecomment-1732086190) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
