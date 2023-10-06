@@ -2,9 +2,7 @@
 
 ## :house: Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
 
-My name is Alexandre Abrioux, I am a full stack developer / devops engineer.<br>
-I'm from France, living in Paris, and currently working at [Request](https://www.request.finance/), a crypto payments solution for businesses.<br>
-You can find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin].
+... and welcome to my GitHub profile! My name is Alexandre Abrioux, I'm from France, currently living in Paris, and working as a software architect at [Request](https://www.request.finance/), a crypto payments solution for businesses. You can also find me on [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue?style=social&logo=linkedin">][linkedin]
 
 ## :mega: Logs
 
