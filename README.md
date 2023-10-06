@@ -50,6 +50,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle), Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
 - Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
 - Contributed to [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui), a web interface for OPcache - [#15](https://github.com/amnuts/opcache-gui/pull/15)
+- Contributed to [Troopers/MangopayBundle](https://github.com/Troopers/MangopayBundle), the [Mangopay](https://mangopay.com/) API's implementation for Symfony - [#38](https://github.com/Troopers/MangopayBundle/pull/38) - [#40](https://github.com/Troopers/MangopayBundle/pull/40)
 
 #### Node.js
 
