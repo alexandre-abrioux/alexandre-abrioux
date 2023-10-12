@@ -89,11 +89,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1190](https://github.com/RequestNetwork/requestNetwork/pull/1190) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🎉 Merged PR [#1191](https://github.com/RequestNetwork/requestNetwork/pull/1191) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. ❌ Closed PR [#1359](https://github.com/release-drafter/release-drafter/pull/1359) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
-4. 🗣 Commented on [#1359](https://github.com/release-drafter/release-drafter/pull/1359#issuecomment-1748725257) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
-5. ❌ Closed PR [#1187](https://github.com/RequestNetwork/requestNetwork/pull/1187) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 💪 Opened PR [#1195](https://github.com/RequestNetwork/requestNetwork/pull/1195) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🎉 Merged PR [#1134](https://github.com/RequestNetwork/requestNetwork/pull/1134) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🎉 Merged PR [#1190](https://github.com/RequestNetwork/requestNetwork/pull/1190) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🎉 Merged PR [#1191](https://github.com/RequestNetwork/requestNetwork/pull/1191) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. ❌ Closed PR [#1359](https://github.com/release-drafter/release-drafter/pull/1359) in [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
 <!--END_SECTION:activity-->
 
 </details>
