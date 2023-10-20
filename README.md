@@ -89,11 +89,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/RequestNetwork/storage-subgraph/pull/10) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-2. 💪 Opened PR [#10](https://github.com/RequestNetwork/storage-subgraph/pull/10) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-3. 🎉 Merged PR [#1195](https://github.com/RequestNetwork/requestNetwork/pull/1195) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🚀 Published release [v0.12.4](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.12.4) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🎉 Merged PR [#38](https://github.com/alexandre-abrioux/golem-node/pull/38) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🎉 Merged PR [#22](https://github.com/RequestNetwork/request-helm-charts/pull/22) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+2. 💪 Opened PR [#22](https://github.com/RequestNetwork/request-helm-charts/pull/22) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+3. 🎉 Merged PR [#10](https://github.com/RequestNetwork/storage-subgraph/pull/10) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+4. 💪 Opened PR [#10](https://github.com/RequestNetwork/storage-subgraph/pull/10) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+5. 🎉 Merged PR [#1195](https://github.com/RequestNetwork/requestNetwork/pull/1195) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
