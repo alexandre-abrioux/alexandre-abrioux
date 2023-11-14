@@ -6,9 +6,13 @@
 
 ## :mega: Logs
 
+#### November 14, 2023
+
+Contributed to [axios-retry](https://github.com/softonic/axios-retry/pull/248)!
+
 #### September 28, 2023
 
-Just contributed to the Cross-Desktop Group project (freedesktop.org)! See this [xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35) merge request. 
+Just contributed to the Cross-Desktop Group project (freedesktop.org)! See this [xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35) merge request.
 
 #### October 3, 2022
 
@@ -59,6 +63,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [luin/ioredis](https://github.com/luin/ioredis), a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
 - Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
 - Contributed to [hg-pyun/axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
+- Contributed to [softonic/axios-retry](https://github.com/softonic/axios-retry), an Axios plugin that retries failed requests - [#248](https://github.com/softonic/axios-retry/pull/248)
 
 #### Misc
 
