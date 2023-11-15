@@ -94,11 +94,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1236](https://github.com/RequestNetwork/requestNetwork/pull/1236) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. ❗ Opened issue [#747](https://github.com/ecies/js/issues/747) in [ecies/js](https://github.com/ecies/js)
-3. 💪 Opened PR [#248](https://github.com/softonic/axios-retry/pull/248) in [softonic/axios-retry](https://github.com/softonic/axios-retry)
-4. 🎉 Merged PR [#1231](https://github.com/RequestNetwork/requestNetwork/pull/1231) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#1231](https://github.com/RequestNetwork/requestNetwork/pull/1231) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#1239](https://github.com/RequestNetwork/requestNetwork/pull/1239) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🗣 Commented on [#747](https://github.com/ecies/js/issues/747#issuecomment-1810002863) in [ecies/js](https://github.com/ecies/js)
+3. 🗣 Commented on [#747](https://github.com/ecies/js/issues/747#issuecomment-1809984209) in [ecies/js](https://github.com/ecies/js)
+4. 💪 Opened PR [#1239](https://github.com/RequestNetwork/requestNetwork/pull/1239) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#747](https://github.com/ecies/js/issues/747#issuecomment-1809845030) in [ecies/js](https://github.com/ecies/js)
 <!--END_SECTION:activity-->
 
 </details>
