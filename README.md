@@ -94,11 +94,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1253](https://github.com/RequestNetwork/requestNetwork/pull/1253) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🎉 Merged PR [#1239](https://github.com/RequestNetwork/requestNetwork/pull/1239) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 🗣 Commented on [#747](https://github.com/ecies/js/issues/747#issuecomment-1810002863) in [ecies/js](https://github.com/ecies/js)
-4. 🗣 Commented on [#747](https://github.com/ecies/js/issues/747#issuecomment-1809984209) in [ecies/js](https://github.com/ecies/js)
-5. 💪 Opened PR [#1239](https://github.com/RequestNetwork/requestNetwork/pull/1239) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🗣 Commented on [#1236](https://github.com/RequestNetwork/requestNetwork/pull/1236#issuecomment-1817463437) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#1253](https://github.com/RequestNetwork/requestNetwork/pull/1253) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🎉 Merged PR [#1239](https://github.com/RequestNetwork/requestNetwork/pull/1239) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🗣 Commented on [#747](https://github.com/ecies/js/issues/747#issuecomment-1810002863) in [ecies/js](https://github.com/ecies/js)
+5. 🗣 Commented on [#747](https://github.com/ecies/js/issues/747#issuecomment-1809984209) in [ecies/js](https://github.com/ecies/js)
 <!--END_SECTION:activity-->
 
 </details>
