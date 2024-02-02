@@ -64,7 +64,8 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
 - Contributed to [axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
 - Contributed to [axios-retry](https://github.com/softonic/axios-retry), an Axios plugin that retries failed requests - [#248](https://github.com/softonic/axios-retry/pull/248)
-- Contributed to [nestjs-cls](https://github.com/Papooch/nestjs-cls), an async context manager for NestJS - [#118](https://github.com/Papooch/nestjs-cls/pull/118)
+- Contributed to [mikro-orm](https://github.com/mikro-orm/mikro-orm), an ORM based on the Unit of Work pattern - [#5158](https://github.com/alexandre-abrioux/mikro-orm-issue-5158)
+- Contributed to [nestjs-cls](https://github.com/Papooch/nestjs-cls), an async context manager for NestJS - [#118](https://github.com/Papooch/nestjs-cls/pull/118) - [#119](https://github.com/Papooch/nestjs-cls/pull/119)
 
 #### Misc
 
