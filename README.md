@@ -96,11 +96,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1352](https://github.com/RequestNetwork/requestNetwork/pull/1352) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 💪 Opened PR [#119](https://github.com/Papooch/nestjs-cls/pull/119) in [Papooch/nestjs-cls](https://github.com/Papooch/nestjs-cls)
-3. 🗣 Commented on [#1345](https://github.com/RequestNetwork/requestNetwork/pull/1345#issuecomment-1921277612) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. ❌ Reopened PR [#1345](https://github.com/RequestNetwork/requestNetwork/pull/1345) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 🗣 Commented on [#118](https://github.com/Papooch/nestjs-cls/pull/118#issuecomment-1918798702) in [Papooch/nestjs-cls](https://github.com/Papooch/nestjs-cls)
+1. 🗣 Commented on [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353#issuecomment-1941283232) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. ❌ Closed PR [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 💪 Opened PR [#1352](https://github.com/RequestNetwork/requestNetwork/pull/1352) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 💪 Opened PR [#119](https://github.com/Papooch/nestjs-cls/pull/119) in [Papooch/nestjs-cls](https://github.com/Papooch/nestjs-cls)
 <!--END_SECTION:activity-->
 
 </details>
