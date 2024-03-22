@@ -96,11 +96,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1363](https://github.com/RequestNetwork/requestNetwork/pull/1363) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 💪 Opened PR [#19](https://github.com/g-plane/pnpm-shell-completion/pull/19) in [g-plane/pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion)
-3. 🗣 Commented on [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353#issuecomment-1941283232) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. ❌ Closed PR [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 💪 Opened PR [#27](https://github.com/RequestNetwork/request-helm-charts/pull/27) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+2. 💪 Opened PR [#1363](https://github.com/RequestNetwork/requestNetwork/pull/1363) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#19](https://github.com/g-plane/pnpm-shell-completion/pull/19) in [g-plane/pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion)
+4. 🗣 Commented on [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353#issuecomment-1941283232) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. ❌ Closed PR [#1353](https://github.com/RequestNetwork/requestNetwork/pull/1353) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
