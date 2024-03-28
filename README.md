@@ -96,11 +96,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/RequestFinance/demo-api/pull/11) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-2. 🎉 Merged PR [#2](https://github.com/RequestFinance/demo-api/pull/2) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-3. 💪 Opened PR [#14](https://github.com/benjlevesque/gsheet-object/pull/14) in [benjlevesque/gsheet-object](https://github.com/benjlevesque/gsheet-object)
-4. 🎉 Merged PR [#29](https://github.com/RequestNetwork/request-helm-charts/pull/29) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-5. 💪 Opened PR [#29](https://github.com/RequestNetwork/request-helm-charts/pull/29) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+1. 🎉 Merged PR [#8](https://github.com/RequestFinance/demo-api/pull/8) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
+2. 🎉 Merged PR [#5](https://github.com/RequestFinance/demo-api/pull/5) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
+3. 🎉 Merged PR [#3](https://github.com/RequestFinance/demo-api/pull/3) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
+4. 🎉 Merged PR [#11](https://github.com/RequestFinance/demo-api/pull/11) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
+5. 💪 Opened PR [#11](https://github.com/RequestFinance/demo-api/pull/11) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
 <!--END_SECTION:activity-->
 
 </details>
