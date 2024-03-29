@@ -96,11 +96,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/RequestFinance/demo-api/pull/8) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-2. 🎉 Merged PR [#5](https://github.com/RequestFinance/demo-api/pull/5) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-3. 🎉 Merged PR [#3](https://github.com/RequestFinance/demo-api/pull/3) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-4. 🎉 Merged PR [#11](https://github.com/RequestFinance/demo-api/pull/11) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-5. 💪 Opened PR [#11](https://github.com/RequestFinance/demo-api/pull/11) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
+1. 🎉 Merged PR [#1364](https://github.com/RequestNetwork/requestNetwork/pull/1364) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#1371](https://github.com/RequestNetwork/requestNetwork/pull/1371) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🎉 Merged PR [#1368](https://github.com/RequestNetwork/requestNetwork/pull/1368) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🎉 Merged PR [#8](https://github.com/RequestFinance/demo-api/pull/8) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
+5. 🎉 Merged PR [#5](https://github.com/RequestFinance/demo-api/pull/5) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
 <!--END_SECTION:activity-->
 
 </details>
