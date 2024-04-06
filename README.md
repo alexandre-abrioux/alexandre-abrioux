@@ -96,11 +96,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1359](https://github.com/RequestNetwork/requestNetwork/pull/1359) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🎉 Merged PR [#1360](https://github.com/RequestNetwork/requestNetwork/pull/1360) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 🎉 Merged PR [#1370](https://github.com/RequestNetwork/requestNetwork/pull/1370) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#1364](https://github.com/RequestNetwork/requestNetwork/pull/1364) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#1371](https://github.com/RequestNetwork/requestNetwork/pull/1371) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🚀 Published release [v0.15.0](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.15.0) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🎉 Merged PR [#42](https://github.com/alexandre-abrioux/golem-node/pull/42) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🎉 Merged PR [#1359](https://github.com/RequestNetwork/requestNetwork/pull/1359) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🎉 Merged PR [#1360](https://github.com/RequestNetwork/requestNetwork/pull/1360) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🎉 Merged PR [#1370](https://github.com/RequestNetwork/requestNetwork/pull/1370) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
