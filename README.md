@@ -96,11 +96,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1371](https://github.com/RequestNetwork/requestNetwork/pull/1371) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 💪 Opened PR [#6362](https://github.com/axios/axios/pull/6362) in [axios/axios](https://github.com/axios/axios)
-3. 🚀 Published release [v0.15.0](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.15.0) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#42](https://github.com/alexandre-abrioux/golem-node/pull/42) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🎉 Merged PR [#1359](https://github.com/RequestNetwork/requestNetwork/pull/1359) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. ❗ Opened issue [#772](https://github.com/Helium314/HeliBoard/issues/772) in [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard)
+2. 🎉 Merged PR [#1371](https://github.com/RequestNetwork/requestNetwork/pull/1371) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#6362](https://github.com/axios/axios/pull/6362) in [axios/axios](https://github.com/axios/axios)
+4. 🚀 Published release [v0.15.0](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.15.0) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🎉 Merged PR [#42](https://github.com/alexandre-abrioux/golem-node/pull/42) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
