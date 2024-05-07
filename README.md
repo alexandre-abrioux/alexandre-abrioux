@@ -6,6 +6,10 @@
 
 ## :mega: Logs
 
+#### May 7, 2024
+
+Fixed a bug in axios, see more on https://github.com/axios/axios/pull/6362
+
 #### November 14, 2023
 
 Contributed to [axios-retry](https://github.com/softonic/axios-retry/pull/248)!
@@ -43,35 +47,36 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 #### Blockchain
 
 - Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
-- Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1) - [#3](https://github.com/cartesi/noether/pull/3) - (WIP) [#2](https://github.com/cartesi/noether/pull/2) [#6](https://github.com/cartesi/noether/pull/6) [#9](https://github.com/cartesi/noether/pull/9) [#10](https://github.com/cartesi/noether/pull/10)
-- Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
 - Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - [#59366](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) - [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59762)
 - Contributed to [@rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions), an EIP-1559 gas fee forecaster - [#25](https://github.com/rainbow-me/fee-suggestions/pull/25)
+- Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
+- Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1) - [#3](https://github.com/cartesi/noether/pull/3) - (WIP) [#2](https://github.com/cartesi/noether/pull/2) [#6](https://github.com/cartesi/noether/pull/6) [#9](https://github.com/cartesi/noether/pull/9) [#10](https://github.com/cartesi/noether/pull/10)
 
 #### PHP
 
-- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm), Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
-- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle), Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
-- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
 - Contributed to [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui), a web interface for OPcache - [#15](https://github.com/amnuts/opcache-gui/pull/15)
+- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm), Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
+- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
+- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle), Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
 - Contributed to [Troopers/MangopayBundle](https://github.com/Troopers/MangopayBundle), the [Mangopay](https://mangopay.com/) API's implementation for Symfony - [#38](https://github.com/Troopers/MangopayBundle/pull/38) - [#40](https://github.com/Troopers/MangopayBundle/pull/40)
 
 #### Node.js
 
-- Maintener of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a `gulp-rev` plugin to prune temporary files 
-- Contributed to [winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
-- Contributed to [ioredis](https://github.com/luin/ioredis), a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
-- Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
+- Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a `gulp-rev` plugin to prune temporary files 
+- Contributed to [axios](https://github.com/axios/axios), an HTTP client for the browser and Node.js - [#6362](https://github.com/axios/axios/pull/6362)
 - Contributed to [axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
 - Contributed to [axios-retry](https://github.com/softonic/axios-retry), an Axios plugin that retries failed requests - [#248](https://github.com/softonic/axios-retry/pull/248)
+- Contributed to [ioredis](https://github.com/luin/ioredis), a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
 - Contributed to [mikro-orm](https://github.com/mikro-orm/mikro-orm), an ORM based on the Unit of Work pattern - [#5158](https://github.com/alexandre-abrioux/mikro-orm-issue-5158)
 - Contributed to [nestjs-cls](https://github.com/Papooch/nestjs-cls), an async context manager for NestJS - [#118](https://github.com/Papooch/nestjs-cls/pull/118) - [#119](https://github.com/Papooch/nestjs-cls/pull/119)
+- Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
+- Contributed to [winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
 
 #### Misc
 
-- Contributed to [xdg/xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils), a set of scripts for Free Desktop integration - [#35](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35)
 - Contributed to [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev), a lightweight secured SOCKS5 proxy - [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866)
-- Contributed to [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart), a Helm Chart for Shadowsocks - [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) - [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2)
+- Contributed to [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart), an Helm Chart for Shadowsocks - [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) - [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2)
+- Contributed to [xdg/xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils), a set of scripts for Free Desktop integration - [#35](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35)
 
 ## :wrench: My Toolbox
 
