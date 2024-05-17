@@ -101,11 +101,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6362](https://github.com/axios/axios/pull/6362#issuecomment-2095926745) in [axios/axios](https://github.com/axios/axios)
-2. 🗣 Commented on [#6362](https://github.com/axios/axios/pull/6362#issuecomment-2093534141) in [axios/axios](https://github.com/axios/axios)
-3. 🗣 Commented on [#6203](https://github.com/axios/axios/pull/6203#issuecomment-2093439770) in [axios/axios](https://github.com/axios/axios)
-4. ❗ Opened issue [#772](https://github.com/Helium314/HeliBoard/issues/772) in [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard)
-5. 🎉 Merged PR [#1371](https://github.com/RequestNetwork/requestNetwork/pull/1371) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#16](https://github.com/RequestNetwork/storage-subgraph/pull/16) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+2. 💪 Opened PR [#1401](https://github.com/RequestNetwork/requestNetwork/pull/1401) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#16](https://github.com/RequestNetwork/storage-subgraph/pull/16) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+4. 🗣 Commented on [#6362](https://github.com/axios/axios/pull/6362#issuecomment-2095926745) in [axios/axios](https://github.com/axios/axios)
+5. 🗣 Commented on [#6362](https://github.com/axios/axios/pull/6362#issuecomment-2093534141) in [axios/axios](https://github.com/axios/axios)
 <!--END_SECTION:activity-->
 
 </details>
