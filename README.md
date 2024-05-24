@@ -101,11 +101,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/RequestNetwork/price-aggregators-subgraph/pull/7) in [RequestNetwork/price-aggregators-subgraph](https://github.com/RequestNetwork/price-aggregators-subgraph)
-2. 🗣 Commented on [#95](https://github.com/RequestNetwork/payments-subgraph/pull/95#issuecomment-2123403558) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-3. 🗣 Commented on [#63](https://github.com/RequestNetwork/payments-subgraph/issues/63#issuecomment-2123358660) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-4. 💪 Opened PR [#95](https://github.com/RequestNetwork/payments-subgraph/pull/95) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-5. 🎉 Merged PR [#1402](https://github.com/RequestNetwork/requestNetwork/pull/1402) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#1401](https://github.com/RequestNetwork/requestNetwork/pull/1401) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🎉 Merged PR [#7](https://github.com/RequestNetwork/price-aggregators-subgraph/pull/7) in [RequestNetwork/price-aggregators-subgraph](https://github.com/RequestNetwork/price-aggregators-subgraph)
+3. 🎉 Merged PR [#1403](https://github.com/RequestNetwork/requestNetwork/pull/1403) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🗣 Commented on [#1403](https://github.com/RequestNetwork/requestNetwork/pull/1403#issuecomment-2127105576) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🔒 Closed issue [#63](https://github.com/RequestNetwork/payments-subgraph/issues/63) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
 <!--END_SECTION:activity-->
 
 </details>
