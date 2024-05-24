@@ -69,6 +69,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [ioredis](https://github.com/luin/ioredis), a Redis client for Node.js - [#1137](https://github.com/luin/ioredis/pull/1137) - [#1139](https://github.com/luin/ioredis/pull/1139)
 - Contributed to [mikro-orm](https://github.com/mikro-orm/mikro-orm), an ORM based on the Unit of Work pattern - [#5158](https://github.com/alexandre-abrioux/mikro-orm-issue-5158)
 - Contributed to [nestjs-cls](https://github.com/Papooch/nestjs-cls), an async context manager for NestJS - [#118](https://github.com/Papooch/nestjs-cls/pull/118) - [#119](https://github.com/Papooch/nestjs-cls/pull/119)
+- Contributed to [pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion), a completion tool for pnpm - [#19](https://github.com/g-plane/pnpm-shell-completion/pull/19)
 - Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
 - Contributed to [winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
 
