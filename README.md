@@ -52,14 +52,6 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
 - Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1) - [#3](https://github.com/cartesi/noether/pull/3) - (WIP) [#2](https://github.com/cartesi/noether/pull/2) [#6](https://github.com/cartesi/noether/pull/6) [#9](https://github.com/cartesi/noether/pull/9) [#10](https://github.com/cartesi/noether/pull/10)
 
-#### PHP
-
-- Contributed to [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui), a web interface for OPcache - [#15](https://github.com/amnuts/opcache-gui/pull/15)
-- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm), Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
-- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
-- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle), Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
-- Contributed to [Troopers/MangopayBundle](https://github.com/Troopers/MangopayBundle), the [Mangopay](https://mangopay.com/) API's implementation for Symfony - [#38](https://github.com/Troopers/MangopayBundle/pull/38) - [#40](https://github.com/Troopers/MangopayBundle/pull/40)
-
 #### Node.js
 
 - Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a `gulp-rev` plugin to prune temporary files 
@@ -72,6 +64,14 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion), a completion tool for pnpm - [#19](https://github.com/g-plane/pnpm-shell-completion/pull/19)
 - Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
 - Contributed to [winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
+
+#### PHP
+
+- Contributed to [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui), a web interface for OPcache - [#15](https://github.com/amnuts/opcache-gui/pull/15)
+- Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm), Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
+- Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
+- Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle), Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
+- Contributed to [Troopers/MangopayBundle](https://github.com/Troopers/MangopayBundle), the [Mangopay](https://mangopay.com/) API's implementation for Symfony - [#38](https://github.com/Troopers/MangopayBundle/pull/38) - [#40](https://github.com/Troopers/MangopayBundle/pull/40)
 
 #### Misc
 
