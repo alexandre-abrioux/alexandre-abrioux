@@ -1,0 +1,20 @@
+{
+  "name": "alexandre-abrioux",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "toolbox": "scripts/generate-toolbox.ts"
+  },
+  "dependencies": {
+    "simple-icons": "^11.15.0",
+    "tinycolor2": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/tinycolor2": "^1.4.6",
+    "prettier": "^3.2.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
