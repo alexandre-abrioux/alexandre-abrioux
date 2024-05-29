@@ -105,11 +105,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/RequestNetwork/payments-subgraph/pull/96) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-2. 💪 Opened PR [#1404](https://github.com/RequestNetwork/requestNetwork/pull/1404) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318) in [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage)
-4. 🎉 Merged PR [#1401](https://github.com/RequestNetwork/requestNetwork/pull/1401) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 🎉 Merged PR [#7](https://github.com/RequestNetwork/price-aggregators-subgraph/pull/7) in [RequestNetwork/price-aggregators-subgraph](https://github.com/RequestNetwork/price-aggregators-subgraph)
+1. 🎉 Merged PR [#1404](https://github.com/RequestNetwork/requestNetwork/pull/1404) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🎉 Merged PR [#99](https://github.com/RequestNetwork/payments-subgraph/pull/99) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+3. 💪 Opened PR [#99](https://github.com/RequestNetwork/payments-subgraph/pull/99) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+4. 🎉 Merged PR [#98](https://github.com/RequestNetwork/payments-subgraph/pull/98) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+5. 💪 Opened PR [#98](https://github.com/RequestNetwork/payments-subgraph/pull/98) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
 <!--END_SECTION:activity-->
 
 </details>
