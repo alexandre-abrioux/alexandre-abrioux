@@ -105,11 +105,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318#issuecomment-2147285761) in [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage)
-2. 💪 Opened PR [#175](https://github.com/benjlevesque/slack-meet/pull/175) in [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet)
-3. 🎉 Merged PR [#1404](https://github.com/RequestNetwork/requestNetwork/pull/1404) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#99](https://github.com/RequestNetwork/payments-subgraph/pull/99) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
-5. 💪 Opened PR [#99](https://github.com/RequestNetwork/payments-subgraph/pull/99) in [RequestNetwork/payments-subgraph](https://github.com/RequestNetwork/payments-subgraph)
+1. 💪 Opened PR [#679](https://github.com/hyprwm/hyprland-wiki/pull/679) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+2. 💪 Opened PR [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+3. 🗣 Commented on [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318#issuecomment-2147285761) in [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage)
+4. 💪 Opened PR [#175](https://github.com/benjlevesque/slack-meet/pull/175) in [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet)
+5. 🎉 Merged PR [#1404](https://github.com/RequestNetwork/requestNetwork/pull/1404) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
