@@ -54,7 +54,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 
 #### Node.js
 
-- Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a `gulp-rev` plugin to prune temporary files 
+- Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files 
 - Contributed to [axios](https://github.com/axios/axios), an HTTP client for the browser and Node.js - [#6362](https://github.com/axios/axios/pull/6362)
 - Contributed to [axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
 - Contributed to [axios-retry](https://github.com/softonic/axios-retry), an Axios plugin that retries failed requests - [#248](https://github.com/softonic/axios-retry/pull/248)
@@ -78,6 +78,8 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev), a lightweight secured SOCKS5 proxy - [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866)
 - Contributed to [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart), an Helm Chart for Shadowsocks - [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) - [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2)
 - Contributed to [xdg/xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils), a set of scripts for Free Desktop integration - [#35](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35)
+- Contributed to [Hyprland's wiki](https://github.com/hyprwm/hyprland-wiki) - [#679](https://github.com/hyprwm/hyprland-wiki/pull/679)
+- Contributed to [rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)'s documentation, a cursor theme for Hyprland - [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4)
 
 ## :wrench: My Toolbox
 
