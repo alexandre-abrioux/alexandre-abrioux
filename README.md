@@ -8,44 +8,6 @@ You'll find here a mix of personal projects and contributions to open-source rep
 #### 🤝 Let's Connect
 I'm always open to discussing new projects, ideas, or opportunities for collaboration. Feel free to reach out via [LinkedIn]!
 
-## :mega: Logs
-
-#### May 7, 2024
-
-Fixed a bug in axios, see more on https://github.com/axios/axios/pull/6362
-
-#### November 14, 2023
-
-Contributed to [axios-retry](https://github.com/softonic/axios-retry/pull/248)!
-
-#### September 28, 2023
-
-Just contributed to the Cross-Desktop Group project (freedesktop.org)! See this [xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35) merge request.
-
-#### October 3, 2022
-
-My first [contribution to supertest](https://github.com/visionmedia/supertest/pull/767) npm package got merged!
-
-#### March 22, 2022
-
-Just got my first contribution merged on the [`DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped) repository! I added type definitions for the [`ethereum-block-by-date`](https://www.npmjs.com/package/ethereum-block-by-date) npm package. The [PR has been accepted](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) and types are now available at [`@types/ethereum-block-by-date`](https://www.npmjs.com/package/@types/ethereum-block-by-date).
-
-#### February 15, 2022
-
-Started working on adding support for the EIP-1559 to Cartesi's Noether Node. The [PR](https://github.com/cartesi/noether/pull/9) has been submitted for review.
-
-#### May 26, 2021
-
-Added schema validation support to Doctrine MongoDB ODM. The [new feature has been merged](https://github.com/doctrine/mongodb-odm/pull/2238) and will be released in version 2.3.
-
-#### March 2, 2021
-
-My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was featured in one of their [Medium article](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e). It is related to improving the gas price estimation when submitting new blocks.
-
-#### January 14, 2021
-
-My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and take a look at the project over here: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
-
 ## :rocket: Featured Projects & Contributions
 
 #### Blockchain
@@ -104,6 +66,45 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 |[<img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white">](#)|[<img align="left" alt="Harhat" src="https://img.shields.io/badge/-Harhat-fff04d?logoColor=black">](#)|[<img align="left" alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white">](#)||[<img align="left" alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white">](#)|[<img align="left" alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white">](#)|
 ||[<img align="left" alt="Truffle" src="https://img.shields.io/badge/-Truffle-5e464d?logoColor=white">](#)|[<img align="left" alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?logo=Terraform&logoColor=white">](#)||[<img align="left" alt="Bun" src="https://img.shields.io/badge/-Bun-000000?logo=Bun&logoColor=white">](#)|
 ||[<img align="left" alt="Ethers" src="https://img.shields.io/badge/-Ethers-2535A0?logo=Ethers&logoColor=white">](#)|
+
+
+## :mega: Logs
+
+#### May 7, 2024
+
+Fixed a bug in axios, see more on https://github.com/axios/axios/pull/6362
+
+#### November 14, 2023
+
+Contributed to [axios-retry](https://github.com/softonic/axios-retry/pull/248)!
+
+#### September 28, 2023
+
+Just contributed to the Cross-Desktop Group project (freedesktop.org)! See this [xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35) merge request.
+
+#### October 3, 2022
+
+My first [contribution to supertest](https://github.com/visionmedia/supertest/pull/767) npm package got merged!
+
+#### March 22, 2022
+
+Just got my first contribution merged on the [`DefinitelyTyped`](https://github.com/DefinitelyTyped/DefinitelyTyped) repository! I added type definitions for the [`ethereum-block-by-date`](https://www.npmjs.com/package/ethereum-block-by-date) npm package. The [PR has been accepted](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) and types are now available at [`@types/ethereum-block-by-date`](https://www.npmjs.com/package/@types/ethereum-block-by-date).
+
+#### February 15, 2022
+
+Started working on adding support for the EIP-1559 to Cartesi's Noether Node. The [PR](https://github.com/cartesi/noether/pull/9) has been submitted for review.
+
+#### May 26, 2021
+
+Added schema validation support to Doctrine MongoDB ODM. The [new feature has been merged](https://github.com/doctrine/mongodb-odm/pull/2238) and will be released in version 2.3.
+
+#### March 2, 2021
+
+My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was featured in one of their [Medium article](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e). It is related to improving the gas price estimation when submitting new blocks.
+
+#### January 14, 2021
+
+My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and take a look at the project over here: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
 
 ---
 
