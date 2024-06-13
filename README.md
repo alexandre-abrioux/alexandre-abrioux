@@ -8,7 +8,7 @@ You'll find here a mix of personal projects and contributions to open-source rep
 #### 🤝 Let's Connect
 I'm always open to discussing new projects, ideas, or opportunities for collaboration. Feel free to reach out via [LinkedIn]!
 
-## :rocket: Featured Projects & Contributions
+## :rocket: Projects & Contributions
 
 #### Blockchain
 
@@ -47,7 +47,7 @@ I'm always open to discussing new projects, ideas, or opportunities for collabor
 - Contributed to [Hyprland's wiki](https://github.com/hyprwm/hyprland-wiki) - [#679](https://github.com/hyprwm/hyprland-wiki/pull/679)
 - Contributed to [rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)'s documentation, a cursor theme for Hyprland - [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4)
 
-## :hammer_and_wrench: My Toolbox
+## :hammer_and_wrench: Toolbox
 
 <!-- generated with "bun toolbox" -->
 |Language|Framework|Infra|Testing|Dev|Ci|
