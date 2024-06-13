@@ -2,7 +2,7 @@
 
 ## :house: Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
 
-I'm Alex, from France, software architect at [Request](https://www.request.finance/)—a crypto payments solution for businesses—and currently living in Paris.
+I'm Alex, from France, software architect at [Request](https://www.request.finance/)—a crypto payment solution for business—and currently living in Paris.
 You'll find here a mix of personal projects and contributions to open-source repositories, which represent steps in my journey of continuous learning and my passion for coding.
 
 ## :handshake: Let's Connect
