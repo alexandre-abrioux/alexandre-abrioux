@@ -58,7 +58,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
 - Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1) - [#3](https://github.com/cartesi/noether/pull/3) - (WIP) [#2](https://github.com/cartesi/noether/pull/2) [#6](https://github.com/cartesi/noether/pull/6) [#9](https://github.com/cartesi/noether/pull/9) [#10](https://github.com/cartesi/noether/pull/10)
 
-#### Node.js
+#### [<img alt="Node.js" src="https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=nodedotjs">](#)
 
 - Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files 
 - Contributed to [axios](https://github.com/axios/axios), an HTTP client for the browser and Node.js - [#6362](https://github.com/axios/axios/pull/6362)
@@ -71,7 +71,7 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
 - Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
 - Contributed to [winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
 
-#### PHP
+#### [<img alt="PHP" src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php">](#)
 
 - Contributed to [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui), a web interface for OPcache - [#15](https://github.com/amnuts/opcache-gui/pull/15)
 - Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm), Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
