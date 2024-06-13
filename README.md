@@ -4,10 +4,10 @@
 
 I'm Alex, from France, software architect at [Request](https://www.request.finance/)—a crypto payments solution for businesses—and currently living in Paris.
 
-#### 🚀 Projects:
+#### 🚀 Projects
 You’ll find here a mix of contributions to personal projects and open-source repositories. Each one represents a step in my journey of continuous learning and passion for coding.
 
-#### 🤝 Let's Connect:
+#### 🤝 Let's Connect
 I am always open to connecting with fellow developers, enthusiasts, and professionals. Feel free to reach out for collaboration, discussions, or just a friendly chat about technology! You can find me on [LinkedIn].
 
 ## :mega: Logs
