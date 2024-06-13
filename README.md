@@ -6,7 +6,7 @@ I'm Alex, from France, software architect at [Request](https://www.request.finan
 You'll find here a mix of personal projects and contributions to open-source repositories, which represent steps in my journey of continuous learning and my passion for coding.
 
 #### 🤝 Let's Connect
-I'm always open to discussing new projects, ideas, or opportunities for collaboration. Feel free to reach out via [LinkedIn]!
+I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out on [LinkedIn]!
 
 ## :rocket: Projects & Contributions
 
