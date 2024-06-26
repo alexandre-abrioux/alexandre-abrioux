@@ -113,11 +113,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#679](https://github.com/hyprwm/hyprland-wiki/pull/679) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-2. 💪 Opened PR [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-3. 🗣 Commented on [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318#issuecomment-2147285761) in [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage)
-4. 💪 Opened PR [#175](https://github.com/benjlevesque/slack-meet/pull/175) in [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet)
-5. 🎉 Merged PR [#1404](https://github.com/RequestNetwork/requestNetwork/pull/1404) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🚀 Published release [v0.15.2](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.15.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🎉 Merged PR [#43](https://github.com/alexandre-abrioux/golem-node/pull/43) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 💪 Opened PR [#679](https://github.com/hyprwm/hyprland-wiki/pull/679) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+4. 💪 Opened PR [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+5. 🗣 Commented on [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318#issuecomment-2147285761) in [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage)
 <!--END_SECTION:activity-->
 
 </details>
