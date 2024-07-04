@@ -113,11 +113,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2203872190) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2203214628) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2202946654) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🚀 Published release [v0.15.2](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.15.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🎉 Merged PR [#43](https://github.com/alexandre-abrioux/golem-node/pull/43) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318#issuecomment-2206335734) in [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage)
+2. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2203872190) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2203214628) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2202946654) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🚀 Published release [v0.15.2](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.15.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
