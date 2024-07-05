@@ -47,6 +47,7 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 - Contributed to [g-plane/pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion), a shell completion script for Pnpm - [#19](https://github.com/g-plane/pnpm-shell-completion/pull/19)
 - Contributed to [Hyprland's wiki](https://github.com/hyprwm/hyprland-wiki) - [#679](https://github.com/hyprwm/hyprland-wiki/pull/679)
 - Contributed to [rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)'s documentation, a cursor theme for Hyprland - [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4)
+- Contributed to [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage), a Terraform module for managing Cloud Storage buckets - [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318)
 
 ## :hammer_and_wrench: Toolbox
 
