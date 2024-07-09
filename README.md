@@ -118,11 +118,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2211726849) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2211536049) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🎉 Merged PR [#45](https://github.com/alexandre-abrioux/golem-node/pull/45) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#50](https://github.com/alexandre-abrioux/golem-node/pull/50) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🎉 Merged PR [#48](https://github.com/alexandre-abrioux/golem-node/pull/48) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#51](https://github.com/alexandre-abrioux/golem-node/issues/51#issuecomment-2214848809) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2211726849) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2211536049) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🎉 Merged PR [#45](https://github.com/alexandre-abrioux/golem-node/pull/45) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🎉 Merged PR [#50](https://github.com/alexandre-abrioux/golem-node/pull/50) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
