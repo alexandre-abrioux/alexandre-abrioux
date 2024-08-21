@@ -118,11 +118,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/RequestFinance/demo-api/pull/12) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-2. 🗣 Commented on [#51](https://github.com/alexandre-abrioux/golem-node/issues/51#issuecomment-2219976131) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#51](https://github.com/alexandre-abrioux/golem-node/issues/51#issuecomment-2214848809) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2211726849) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🗣 Commented on [#44](https://github.com/alexandre-abrioux/golem-node/issues/44#issuecomment-2211536049) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🎉 Merged PR [#32](https://github.com/RequestNetwork/request-helm-charts/pull/32) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+2. 💪 Opened PR [#32](https://github.com/RequestNetwork/request-helm-charts/pull/32) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+3. 🎉 Merged PR [#12](https://github.com/RequestFinance/demo-api/pull/12) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
+4. 🗣 Commented on [#30](https://github.com/RequestNetwork/request-helm-charts/issues/30#issuecomment-2298335000) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+5. 💪 Opened PR [#31](https://github.com/RequestNetwork/request-helm-charts/pull/31) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
 <!--END_SECTION:activity-->
 
 </details>
