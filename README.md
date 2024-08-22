@@ -118,11 +118,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/RequestNetwork/request-helm-charts/pull/32) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-2. 💪 Opened PR [#32](https://github.com/RequestNetwork/request-helm-charts/pull/32) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-3. 🎉 Merged PR [#12](https://github.com/RequestFinance/demo-api/pull/12) in [RequestFinance/demo-api](https://github.com/RequestFinance/demo-api)
-4. 🗣 Commented on [#30](https://github.com/RequestNetwork/request-helm-charts/issues/30#issuecomment-2298335000) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-5. 💪 Opened PR [#31](https://github.com/RequestNetwork/request-helm-charts/pull/31) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+1. 🗣 Commented on [#54477](https://github.com/nodejs/node/pull/54477#issuecomment-2302994596) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#54477](https://github.com/nodejs/node/pull/54477#issuecomment-2302247897) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#54477](https://github.com/nodejs/node/pull/54477) in [nodejs/node](https://github.com/nodejs/node)
+4. 🎉 Merged PR [#32](https://github.com/RequestNetwork/request-helm-charts/pull/32) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+5. 💪 Opened PR [#32](https://github.com/RequestNetwork/request-helm-charts/pull/32) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
 <!--END_SECTION:activity-->
 
 </details>
