@@ -20,7 +20,8 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 #### Node.js
 
-- Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files 
+- Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files
+- Contributed to [Node.js](https://github.com/nodejs/node) documentation - [#54477](https://github.com/nodejs/node/pull/54477)
 - Contributed to [axios](https://github.com/axios/axios), an HTTP client for the browser and Node.js - [#6362](https://github.com/axios/axios/pull/6362)
 - Contributed to [axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
 - Contributed to [axios-retry](https://github.com/softonic/axios-retry), an Axios plugin that retries failed requests - [#248](https://github.com/softonic/axios-retry/pull/248)
