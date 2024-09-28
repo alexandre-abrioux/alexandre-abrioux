@@ -119,11 +119,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6050](https://github.com/mikro-orm/mikro-orm/issues/6050) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-2. 🚀 Published release [v0.16.1](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.16.1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🎉 Merged PR [#54](https://github.com/alexandre-abrioux/golem-node/pull/54) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#53](https://github.com/alexandre-abrioux/golem-node/pull/53) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🗣 Commented on [#8](https://github.com/RequestNetwork/price-aggregators-subgraph/pull/8#issuecomment-2346561175) in [RequestNetwork/price-aggregators-subgraph](https://github.com/RequestNetwork/price-aggregators-subgraph)
+1. ❗ Opened issue [#6078](https://github.com/mikro-orm/mikro-orm/issues/6078) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+2. ❗ Opened issue [#6076](https://github.com/mikro-orm/mikro-orm/issues/6076) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+3. 🗣 Commented on [#4155](https://github.com/mikro-orm/mikro-orm/pull/4155#issuecomment-2379207704) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+4. ❗ Opened issue [#6050](https://github.com/mikro-orm/mikro-orm/issues/6050) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+5. 🚀 Published release [v0.16.1](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.16.1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
