@@ -119,11 +119,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6078](https://github.com/mikro-orm/mikro-orm/issues/6078) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-2. ❗ Opened issue [#6076](https://github.com/mikro-orm/mikro-orm/issues/6076) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-3. 🗣 Commented on [#4155](https://github.com/mikro-orm/mikro-orm/pull/4155#issuecomment-2379207704) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-4. ❗ Opened issue [#6050](https://github.com/mikro-orm/mikro-orm/issues/6050) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-5. 🚀 Published release [v0.16.1](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.16.1) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#6078](https://github.com/mikro-orm/mikro-orm/issues/6078#issuecomment-2383609166) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+2. 💪 Opened PR [#6091](https://github.com/mikro-orm/mikro-orm/pull/6091) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+3. 🗣 Commented on [#6078](https://github.com/mikro-orm/mikro-orm/issues/6078#issuecomment-2383410314) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+4. ❗ Opened issue [#6078](https://github.com/mikro-orm/mikro-orm/issues/6078) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+5. ❗ Opened issue [#6076](https://github.com/mikro-orm/mikro-orm/issues/6076) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
 <!--END_SECTION:activity-->
 
 </details>
