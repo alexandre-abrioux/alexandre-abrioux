@@ -119,11 +119,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/davidraviv/gh-clean-branches/pull/24) in [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches)
-2. 🗣 Commented on [#6094](https://github.com/mikro-orm/mikro-orm/pull/6094#issuecomment-2385271445) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-3. 💪 Opened PR [#6094](https://github.com/mikro-orm/mikro-orm/pull/6094) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-4. 🗣 Commented on [#6078](https://github.com/mikro-orm/mikro-orm/issues/6078#issuecomment-2383609166) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-5. 💪 Opened PR [#6091](https://github.com/mikro-orm/mikro-orm/pull/6091) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+1. 🎉 Merged PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+2. 💪 Opened PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+3. 💪 Opened PR [#25](https://github.com/RequestNetwork/docker-images/pull/25) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
+4. 🎉 Merged PR [#37](https://github.com/RequestNetwork/request-helm-charts/pull/37) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+5. 🗣 Commented on [#35](https://github.com/RequestNetwork/request-helm-charts/pull/35#issuecomment-2391969050) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
 <!--END_SECTION:activity-->
 
 </details>
