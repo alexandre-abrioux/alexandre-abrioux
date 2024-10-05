@@ -119,11 +119,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-2. 💪 Opened PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-3. 💪 Opened PR [#25](https://github.com/RequestNetwork/docker-images/pull/25) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
-4. 🎉 Merged PR [#37](https://github.com/RequestNetwork/request-helm-charts/pull/37) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-5. 🗣 Commented on [#35](https://github.com/RequestNetwork/request-helm-charts/pull/35#issuecomment-2391969050) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+1. 🗣 Commented on [#25](https://github.com/RequestNetwork/docker-images/pull/25#issuecomment-2394296454) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
+2. ❌ Closed PR [#25](https://github.com/RequestNetwork/docker-images/pull/25) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
+3. 🎉 Merged PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+4. 💪 Opened PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
+5. 💪 Opened PR [#25](https://github.com/RequestNetwork/docker-images/pull/25) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
 <!--END_SECTION:activity-->
 
 </details>
