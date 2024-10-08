@@ -119,11 +119,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/RequestNetwork/docker-images/pull/25#issuecomment-2394296454) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
-2. ❌ Closed PR [#25](https://github.com/RequestNetwork/docker-images/pull/25) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
-3. 🎉 Merged PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-4. 💪 Opened PR [#38](https://github.com/RequestNetwork/request-helm-charts/pull/38) in [RequestNetwork/request-helm-charts](https://github.com/RequestNetwork/request-helm-charts)
-5. 💪 Opened PR [#25](https://github.com/RequestNetwork/docker-images/pull/25) in [RequestNetwork/docker-images](https://github.com/RequestNetwork/docker-images)
+1. 💪 Opened PR [#189](https://github.com/joshmedeski/sesh/pull/189) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+2. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397300747) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+3. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397254730) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+4. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397211279) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+5. 💪 Opened PR [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
 <!--END_SECTION:activity-->
 
 </details>
