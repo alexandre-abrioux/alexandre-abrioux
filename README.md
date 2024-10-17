@@ -120,11 +120,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1466](https://github.com/RequestNetwork/requestNetwork/pull/1466) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 💪 Opened PR [#189](https://github.com/joshmedeski/sesh/pull/189) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
-3. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397300747) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-4. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397254730) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-5. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397211279) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+1. 🎉 Merged PR [#1466](https://github.com/RequestNetwork/requestNetwork/pull/1466) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 💪 Opened PR [#1466](https://github.com/RequestNetwork/requestNetwork/pull/1466) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 💪 Opened PR [#189](https://github.com/joshmedeski/sesh/pull/189) in [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+4. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397300747) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+5. 🗣 Commented on [#6120](https://github.com/mikro-orm/mikro-orm/pull/6120#issuecomment-2397254730) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
 <!--END_SECTION:activity-->
 
 </details>
