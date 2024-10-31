@@ -13,6 +13,7 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 #### Blockchain
 
 - Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
+- Contributor on the [RequestNetwork](https://github.com/RequestNetwork/requestNetwork) protocol
 - Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - [#59366](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) - [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59762)
 - Contributed to [@rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions), an EIP-1559 gas fee forecaster - [#25](https://github.com/rainbow-me/fee-suggestions/pull/25)
 - Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
@@ -21,6 +22,7 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 #### Node.js
 
 - Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files
+- Contributor of [slack-meet](benjlevesque/slack-meet), a `/meet` command in Slack to create a Google Meet conference
 - Contributed to [Node.js](https://github.com/nodejs/node) documentation - [#54477](https://github.com/nodejs/node/pull/54477)
 - Contributed to [axios](https://github.com/axios/axios), an HTTP client for the browser and Node.js - [#6362](https://github.com/axios/axios/pull/6362)
 - Contributed to [axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
