@@ -21,18 +21,18 @@ tools:
     - symfony
     - express
     - nestjs
-    - { label: "Doctrine", color: "f4672f" },
+    - { label: "Doctrine", color: "f4672f" }
     - mongoose
-    - { label: "Mikro ORM", color: "0c4346" },
-    - { label: "Harhat", color: "fff04d" },
-    - { label: "Truffle", color: "5e464d" },
+    - { label: "Mikro ORM", color: "0c4346" }
+    - { label: "Harhat", color: "fff04d" }
+    - { label: "Truffle", color: "5e464d" }
     - ethers
   Infra:
     - amazonaws
     - googlecloud
     - cloudflare
     - auth0
-    - { label: "Docker Swarm", icon: "docker" },
+    - { label: "Docker Swarm", icon: "docker" }
     - kubernetes
     - helm
     - elasticsearch
@@ -43,12 +43,12 @@ tools:
     - terraform
   Testing:
     - sonarqube
-    - { label: "PHPUnit", color: "3f98d3" },
+    - { label: "PHPUnit", color: "3f98d3" }
     - jest
     - mocha
     - vitest
-    - { label: "Waffle", color: "ffae50" },
-    - { label: "Matchstick", color: "120b41" },
+    - { label: "Waffle", color: "ffae50" }
+    - { label: "Matchstick", color: "120b41" }
   Dev:
     - git
     - github
@@ -65,7 +65,7 @@ tools:
     - bun
   CI:
     - githubactions
-    - { label: "Gitlab CI", icon: "gitlab" },
+    - { label: "Gitlab CI", icon: "gitlab" }
     - circleci
     - travisci
     - argo
