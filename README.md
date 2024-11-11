@@ -6,7 +6,7 @@ I'm Alex, software architect at [Request](https://www.request.finance/)—a cryp
 You'll find here a mix of personal projects and open-source contributions that represent steps in my journey of continuous learning and passion for coding.
 
 ## :handshake: Let's Connect
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out on [LinkedIn]!
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out on [LinkedIn]!
 
 ## :rocket: Projects & Contributions
 
