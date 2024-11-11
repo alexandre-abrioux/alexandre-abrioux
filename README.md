@@ -122,11 +122,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/benjlevesque/slack-meet/pull/175#issuecomment-2444074377) in [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet)
-2. 🗣 Commented on [#175](https://github.com/benjlevesque/slack-meet/pull/175#issuecomment-2444059173) in [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet)
-3. 🎉 Merged PR [#6](https://github.com/RequestFinance/wallet-balance-notifier/pull/6) in [RequestFinance/wallet-balance-notifier](https://github.com/RequestFinance/wallet-balance-notifier)
-4. 🎉 Merged PR [#4](https://github.com/RequestFinance/wallet-balance-notifier/pull/4) in [RequestFinance/wallet-balance-notifier](https://github.com/RequestFinance/wallet-balance-notifier)
-5. 🎉 Merged PR [#5](https://github.com/RequestFinance/wallet-balance-notifier/pull/5) in [RequestFinance/wallet-balance-notifier](https://github.com/RequestFinance/wallet-balance-notifier)
+1. 🚀 Published release [v1.0.7 - Fix update major version](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.0.7) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+2. 🚀 Published release [v1.0.6 - Fix action docker image](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.0.6) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+3. 🚀 Published release [v1.0.5 - Release major version tag](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.0.5) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+4. 🚀 Published release [v1.0.4 - Fix Docker login on release](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.0.4) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+5. 🚀 Published release [v1.0.3 - Push on release](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.0.3) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
 <!--END_SECTION:activity-->
 
 </details>
