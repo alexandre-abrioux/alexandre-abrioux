@@ -2,7 +2,7 @@
 
 ## :house: Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
 
-I'm Alex, software architect at [Request](https://www.request.finance/)—a crypto payment solution for business. I'm from France, currently living in Paris.
+I'm Alex, software architect at [Request](https://www.request.finance/)—a crypto payment solution for business.
 You'll find here a mix of personal projects and contributions to open-source repositories, which represent steps in my journey of continuous learning and my passion for coding.
 
 ## :handshake: Let's Connect
@@ -41,6 +41,9 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 - Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
 - Contributed to [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle), Symfony Monolog Bundle - [#368](https://github.com/symfony/monolog-bundle/pull/368)
 - Contributed to [Troopers/MangopayBundle](https://github.com/Troopers/MangopayBundle), the [Mangopay](https://mangopay.com/) API's implementation for Symfony - [#38](https://github.com/Troopers/MangopayBundle/pull/38) - [#40](https://github.com/Troopers/MangopayBundle/pull/40)
+
+#### Rust
+- Maintainer of [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox), a GitHub action that generates a toolbox to customize your GitHub profile 
 
 #### Misc
 
