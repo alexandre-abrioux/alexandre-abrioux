@@ -1,0 +1,78 @@
+tools:
+  Language:
+    - html5
+    - css3
+    - sass
+    - php
+    - javascript
+    - typescript
+    - nodedotjs
+    - solidity
+    - nx
+    - graphql
+    - mysql
+    - mongodb
+  Framework:
+    - angular
+    - react
+    - nextdotjs
+    - mui
+    - redux
+    - symfony
+    - express
+    - nestjs
+    - { label: "Doctrine", color: "f4672f" },
+    - mongoose
+    - { label: "Mikro ORM", color: "0c4346" },
+    - { label: "Harhat", color: "fff04d" },
+    - { label: "Truffle", color: "5e464d" },
+    - ethers
+  Infra:
+    - amazonaws
+    - googlecloud
+    - cloudflare
+    - auth0
+    - { label: "Docker Swarm", icon: "docker" },
+    - kubernetes
+    - helm
+    - elasticsearch
+    - logstash
+    - kibana
+    - grafana
+    - rabbitmq
+    - terraform
+  Testing:
+    - sonarqube
+    - { label: "PHPUnit", color: "3f98d3" },
+    - jest
+    - mocha
+    - vitest
+    - { label: "Waffle", color: "ffae50" },
+    - { label: "Matchstick", color: "120b41" },
+  Dev:
+    - git
+    - github
+    - gitlab
+    - webstorm
+    - visualstudiocode
+    - neovim
+    - debian
+    - archlinux
+    - nixos
+    - npm
+    - yarn
+    - pnpm
+    - bun
+  CI:
+    - githubactions
+    - { label: "Gitlab CI", icon: "gitlab" },
+    - circleci
+    - travisci
+    - argo
+    - gocd
+    - webpack
+    - gulp
+    - vite
+    - swc
+    - prettier
+    - eslint
