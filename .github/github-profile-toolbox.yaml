@@ -54,7 +54,7 @@ tools:
     - github
     - gitlab
     - webstorm
-    - visualstudiocode
+    - { label: "VSCode", color: "007ACC" }
     - neovim
     - debian
     - archlinux
