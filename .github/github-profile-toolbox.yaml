@@ -1,3 +1,4 @@
+# Find slugs on https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 tools:
   Language:
     - html5
@@ -7,6 +8,7 @@ tools:
     - javascript
     - typescript
     - nodedotjs
+    - rust
     - solidity
     - nx
     - graphql
@@ -63,6 +65,7 @@ tools:
     - yarn
     - pnpm
     - bun
+    - deno
   CI:
     - githubactions
     - { label: "Gitlab CI", icon: "gitlab" }
