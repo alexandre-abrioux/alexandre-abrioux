@@ -128,11 +128,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/2) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-2. 🚀 Published release [v1.1.2 - Preserve column ordering](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.1.2) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-3. 🚀 Published release [v1.1.1 - Handle hex strings with hashtag](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.1.1) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-4. 🎉 Merged PR [#4](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/4) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-5. 💪 Opened PR [#1367](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1367) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 💪 Opened PR [#1495](https://github.com/RequestNetwork/requestNetwork/pull/1495) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🎉 Merged PR [#2](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/2) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+3. 🚀 Published release [v1.1.2 - Preserve column ordering](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.1.2) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+4. 🚀 Published release [v1.1.1 - Handle hex strings with hashtag](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.1.1) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+5. 🎉 Merged PR [#4](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/4) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
 <!--END_SECTION:activity-->
 
 </details>
