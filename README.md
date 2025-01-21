@@ -128,11 +128,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1541](https://github.com/RequestNetwork/requestNetwork/pull/1541#issuecomment-2577871681) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. 🗣 Commented on [#1541](https://github.com/RequestNetwork/requestNetwork/pull/1541#issuecomment-2577645422) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 🗣 Commented on [#1541](https://github.com/RequestNetwork/requestNetwork/pull/1541#issuecomment-2577571245) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🗣 Commented on [#1541](https://github.com/RequestNetwork/requestNetwork/pull/1541#issuecomment-2577554399) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 🎉 Merged PR [#9](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/9) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+1. 🗣 Commented on [#1059](https://github.com/RequestNetwork/requestNetwork/pull/1059#issuecomment-2602151869) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. ❌ Closed PR [#1059](https://github.com/RequestNetwork/requestNetwork/pull/1059) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. 🗣 Commented on [#670](https://github.com/RequestNetwork/requestNetwork/pull/670#issuecomment-2602147856) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. ❌ Closed PR [#670](https://github.com/RequestNetwork/requestNetwork/pull/670) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#1541](https://github.com/RequestNetwork/requestNetwork/pull/1541#issuecomment-2577871681) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
