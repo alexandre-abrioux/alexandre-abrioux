@@ -128,11 +128,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#365](https://github.com/soundcloud/api/issues/365) in [soundcloud/api](https://github.com/soundcloud/api)
-2. 🎉 Merged PR [#11](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/11) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-3. 🎉 Merged PR [#8](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/8) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-4. 🎉 Merged PR [#7](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/7) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-5. 💪 Opened PR [#7](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/7) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+1. 🗣 Commented on [#1573](https://github.com/RequestNetwork/requestNetwork/pull/1573#issuecomment-2669690377) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. ❗ Opened issue [#365](https://github.com/soundcloud/api/issues/365) in [soundcloud/api](https://github.com/soundcloud/api)
+3. 🎉 Merged PR [#11](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/11) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+4. 🎉 Merged PR [#8](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/8) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+5. 🎉 Merged PR [#7](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/7) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
 <!--END_SECTION:activity-->
 
 </details>
