@@ -128,11 +128,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/soundcloud/api/issues/365#issuecomment-2672298804) in [soundcloud/api](https://github.com/soundcloud/api)
-2. 🗣 Commented on [#1573](https://github.com/RequestNetwork/requestNetwork/pull/1573#issuecomment-2671128322) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 🗣 Commented on [#1573](https://github.com/RequestNetwork/requestNetwork/pull/1573#issuecomment-2669690377) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. ❗ Opened issue [#365](https://github.com/soundcloud/api/issues/365) in [soundcloud/api](https://github.com/soundcloud/api)
-5. 🎉 Merged PR [#11](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/11) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+1. 🗣 Commented on [#365](https://github.com/soundcloud/api/issues/365#issuecomment-2674610469) in [soundcloud/api](https://github.com/soundcloud/api)
+2. 🔒 Closed issue [#365](https://github.com/soundcloud/api/issues/365) in [soundcloud/api](https://github.com/soundcloud/api)
+3. 🗣 Commented on [#365](https://github.com/soundcloud/api/issues/365#issuecomment-2672298804) in [soundcloud/api](https://github.com/soundcloud/api)
+4. 🗣 Commented on [#1573](https://github.com/RequestNetwork/requestNetwork/pull/1573#issuecomment-2671128322) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🗣 Commented on [#1573](https://github.com/RequestNetwork/requestNetwork/pull/1573#issuecomment-2669690377) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
