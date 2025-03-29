@@ -47,6 +47,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 #### Misc
 
+- Maintainer of [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse), a SoundCloud player with animated visuals
 - Contributed to [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev), a lightweight secured SOCKS5 proxy - [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866)
 - Contributed to [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart), an Helm Chart for Shadowsocks - [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) - [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2)
 - Contributed to [xdg/xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils), a set of scripts for Free Desktop integration - [#35](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35)
