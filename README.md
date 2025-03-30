@@ -129,11 +129,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/16) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-2. 🎉 Merged PR [#1585](https://github.com/RequestNetwork/requestNetwork/pull/1585) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. 💪 Opened PR [#1585](https://github.com/RequestNetwork/requestNetwork/pull/1585) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#1583](https://github.com/RequestNetwork/requestNetwork/pull/1583) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#1583](https://github.com/RequestNetwork/requestNetwork/pull/1583) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#28](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/28) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+2. 💪 Opened PR [#28](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/28) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+3. 🗣 Commented on [#17](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/17#issuecomment-2763560092) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+4. 🗣 Commented on [#18](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/18#issuecomment-2763560049) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+5. 🎉 Merged PR [#27](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/27) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
 <!--END_SECTION:activity-->
 
 </details>
