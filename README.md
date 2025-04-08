@@ -129,11 +129,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#32](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/32) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-2. ❌ Closed PR [#32](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/32) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-3. 💪 Opened PR [#1603](https://github.com/RequestNetwork/requestNetwork/pull/1603) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🚀 Published release [v0.17.2](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.2) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🎉 Merged PR [#58](https://github.com/alexandre-abrioux/golem-node/pull/58) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🚀 Published release [v0.17.3](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+2. 🎉 Merged PR [#59](https://github.com/alexandre-abrioux/golem-node/pull/59) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+3. 🎉 Merged PR [#17](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/17) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+4. ❌ Reopened PR [#32](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/32) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+5. ❌ Closed PR [#32](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/32) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
 <!--END_SECTION:activity-->
 
 </details>
