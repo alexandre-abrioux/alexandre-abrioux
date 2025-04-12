@@ -129,11 +129,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1603](https://github.com/RequestNetwork/requestNetwork/pull/1603) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. ❌ Closed PR [#60](https://github.com/alexandre-abrioux/golem-node/pull/60) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🚀 Published release [v0.17.3](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🎉 Merged PR [#59](https://github.com/alexandre-abrioux/golem-node/pull/59) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🎉 Merged PR [#17](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/17) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+1. 🎉 Merged PR [#34](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/34) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+2. 🎉 Merged PR [#1603](https://github.com/RequestNetwork/requestNetwork/pull/1603) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+3. ❌ Closed PR [#60](https://github.com/alexandre-abrioux/golem-node/pull/60) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🚀 Published release [v0.17.3](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.3) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🎉 Merged PR [#59](https://github.com/alexandre-abrioux/golem-node/pull/59) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
