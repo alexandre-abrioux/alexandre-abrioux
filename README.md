@@ -56,6 +56,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - Contributed to [rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)'s documentation, a cursor theme for Hyprland - [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4)
 - Contributed to [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage), a Terraform module for managing Cloud Storage buckets - [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318)
 - Contributed to [joshmedeski/sesh](https://github.com/joshmedeski/sesh), a tmux session manager - [#189](https://github.com/joshmedeski/sesh/pull/189)
+- Contributed to [blink.cmp](https://github.com/Saghen/blink.cmp), a completion plugin for Neovim - [#1678](https://github.com/Saghen/blink.cmp/pull/1678)
 
 ## :hammer_and_wrench: Toolbox
 
