@@ -33,6 +33,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - Contributed to [pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion), a completion tool for pnpm - [#19](https://github.com/g-plane/pnpm-shell-completion/pull/19)
 - Contributed to [supertest](https://github.com/visionmedia/supertest), a testing library for Node.js - [#767](https://github.com/visionmedia/supertest/pull/767)
 - Contributed to [winston](https://github.com/winstonjs/winston), a logger for Node.js - [#1961](https://github.com/winstonjs/winston/pull/1961)
+- Contributed to [gsheet-object](https://github.com/benjlevesque/gsheet-object), a library to manipulate Google Sheets in Typescript - [#14](https://github.com/benjlevesque/gsheet-object/pull/14)
 
 #### PHP
 
