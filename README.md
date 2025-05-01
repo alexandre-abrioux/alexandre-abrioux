@@ -131,11 +131,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1678](https://github.com/Saghen/blink.cmp/pull/1678) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-2. 🎉 Merged PR [#35](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/35) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-3. 🎉 Merged PR [#1608](https://github.com/RequestNetwork/requestNetwork/pull/1608) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#1609](https://github.com/RequestNetwork/requestNetwork/pull/1609) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#1610](https://github.com/RequestNetwork/requestNetwork/pull/1610) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#36](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/36) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+2. 💪 Opened PR [#1678](https://github.com/Saghen/blink.cmp/pull/1678) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+3. 🎉 Merged PR [#35](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/35) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+4. 🎉 Merged PR [#1608](https://github.com/RequestNetwork/requestNetwork/pull/1608) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+5. 🎉 Merged PR [#1609](https://github.com/RequestNetwork/requestNetwork/pull/1609) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
 <!--END_SECTION:activity-->
 
 </details>
