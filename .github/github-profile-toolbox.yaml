@@ -9,8 +9,9 @@ tools:
     - typescript
     - nodedotjs
     - rust
+    - lua
     - solidity
-    - nx
+    - { label: "Nix", color: "5578c0" }
     - graphql
     - mysql
     - mongodb
