@@ -11,7 +11,7 @@ tools:
     - rust
     - lua
     - solidity
-    - { label: "Nix", color: "5578c0" }
+    - { label: "Nix", icon: "nixos" }
     - graphql
     - mysql
     - mongodb
