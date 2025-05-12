@@ -19,7 +19,6 @@ tools:
     - angular
     - react
     - nextdotjs
-    - mui
     - redux
     - symfony
     - express
