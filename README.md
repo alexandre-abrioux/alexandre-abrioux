@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/36) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-2. 💪 Opened PR [#1678](https://github.com/Saghen/blink.cmp/pull/1678) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-3. 🎉 Merged PR [#35](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/35) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-4. 🎉 Merged PR [#1608](https://github.com/RequestNetwork/requestNetwork/pull/1608) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 🎉 Merged PR [#1609](https://github.com/RequestNetwork/requestNetwork/pull/1609) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#6](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/6) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+2. 💪 Opened PR [#6](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/6) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+3. 🎉 Merged PR [#19](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/19) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+4. 🎉 Merged PR [#18](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/18) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+5. 💪 Opened PR [#18](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/18) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
 <!--END_SECTION:activity-->
 
 </details>
