@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/7) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-2. 🎉 Merged PR [#6](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/6) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-3. 💪 Opened PR [#6](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/6) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-4. 🎉 Merged PR [#19](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/19) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-5. 🎉 Merged PR [#18](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/18) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+1. 💪 Opened PR [#1621](https://github.com/RequestNetwork/requestNetwork/pull/1621) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. ❌ Closed PR [#7](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/7) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+3. 🎉 Merged PR [#6](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/6) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+4. 💪 Opened PR [#6](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/6) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+5. 🎉 Merged PR [#19](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/19) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
 <!--END_SECTION:activity-->
 
 </details>
