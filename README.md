@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1623](https://github.com/RequestNetwork/requestNetwork/pull/1623#issuecomment-2884892442) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-2. ❌ Reopened PR [#1623](https://github.com/RequestNetwork/requestNetwork/pull/1623) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-3. ❌ Closed PR [#1623](https://github.com/RequestNetwork/requestNetwork/pull/1623) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-4. 🎉 Merged PR [#1605](https://github.com/RequestNetwork/requestNetwork/pull/1605) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 💪 Opened PR [#1623](https://github.com/RequestNetwork/requestNetwork/pull/1623) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🚀 Published release [v0.3.0](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/releases/tag/v0.3.0) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+2. 🎉 Merged PR [#7](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/7) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+3. 💪 Opened PR [#7](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/7) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+4. 🎉 Merged PR [#6](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/6) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+5. 💪 Opened PR [#6](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/6) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
 <!--END_SECTION:activity-->
 
 </details>
