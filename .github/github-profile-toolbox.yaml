@@ -31,7 +31,7 @@ tools:
     - { label: "Truffle", color: "5e464d" }
     - ethers
   Infra:
-    - amazonwebservices
+    - { label: "AWS", icon: "task" }
     - googlecloud
     - cloudflare
     - auth0
