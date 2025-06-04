@@ -31,7 +31,7 @@ tools:
     - { label: "Truffle", color: "5e464d" }
     - ethers
   Infra:
-    - { label: "AWS", icon: "task" }
+    - { label: "AWS", icon: "task", color: "2b3443" }
     - googlecloud
     - cloudflare
     - auth0
@@ -44,12 +44,16 @@ tools:
     - grafana
     - rabbitmq
     - terraform
-  Testing:
-    - sonarqube
+  QA:
+    - sonarqubeserver
     - { label: "PHPUnit", color: "3f98d3" }
     - jest
     - mocha
     - vitest
+    - eslint
+    - prettier
+    - puppeteer
+    - { label: "Playwright", color: "385260" }
     - { label: "Waffle", color: "ffae50" }
     - { label: "Matchstick", color: "120b41" }
   Dev:
