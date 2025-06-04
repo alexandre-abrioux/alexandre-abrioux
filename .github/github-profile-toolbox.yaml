@@ -82,5 +82,3 @@ tools:
     - gulp
     - vite
     - swc
-    - prettier
-    - eslint
