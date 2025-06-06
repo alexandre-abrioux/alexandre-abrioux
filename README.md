@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/10) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-2. 🎉 Merged PR [#9](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/9) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-3. 🎉 Merged PR [#8](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/8) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-4. 💪 Opened PR [#8](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/8) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-5. 🎉 Merged PR [#24](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/24) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+1. 🎉 Merged PR [#1623](https://github.com/RequestNetwork/requestNetwork/pull/1623) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🎉 Merged PR [#10](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/10) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+3. 🎉 Merged PR [#9](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/9) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+4. 🎉 Merged PR [#8](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/8) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+5. 💪 Opened PR [#8](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/8) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
 <!--END_SECTION:activity-->
 
 </details>
