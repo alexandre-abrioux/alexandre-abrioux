@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-2952707558) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
-2. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-2952416040) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
-3. 🗣 Commented on [#61](https://github.com/alexandre-abrioux/golem-node/issues/61#issuecomment-2952397908) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🔒 Closed issue [#61](https://github.com/alexandre-abrioux/golem-node/issues/61) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🗣 Commented on [#105](https://github.com/SolanaNameService/sns-sdk/issues/105#issuecomment-2950478029) in [SolanaNameService/sns-sdk](https://github.com/SolanaNameService/sns-sdk)
+1. ❗ Opened issue [#1044](https://github.com/ProvableHQ/sdk/issues/1044) in [ProvableHQ/sdk](https://github.com/ProvableHQ/sdk)
+2. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-2952707558) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+3. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-2952416040) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+4. 🗣 Commented on [#61](https://github.com/alexandre-abrioux/golem-node/issues/61#issuecomment-2952397908) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🔒 Closed issue [#61](https://github.com/alexandre-abrioux/golem-node/issues/61) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
