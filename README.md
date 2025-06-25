@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-2979444479) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
-2. 🗣 Commented on [#1044](https://github.com/ProvableHQ/sdk/issues/1044#issuecomment-2977303999) in [ProvableHQ/sdk](https://github.com/ProvableHQ/sdk)
-3. ❗ Opened issue [#1044](https://github.com/ProvableHQ/sdk/issues/1044) in [ProvableHQ/sdk](https://github.com/ProvableHQ/sdk)
-4. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-2952707558) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
-5. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-2952416040) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+1. 🗣 Commented on [#20](https://github.com/RequestNetwork/storage-subgraph/issues/20#issuecomment-2999936730) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+2. ❗ Opened issue [#23](https://github.com/RequestNetwork/storage-subgraph/issues/23) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+3. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-2979444479) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
+4. 🗣 Commented on [#1044](https://github.com/ProvableHQ/sdk/issues/1044#issuecomment-2977303999) in [ProvableHQ/sdk](https://github.com/ProvableHQ/sdk)
+5. ❗ Opened issue [#1044](https://github.com/ProvableHQ/sdk/issues/1044) in [ProvableHQ/sdk](https://github.com/ProvableHQ/sdk)
 <!--END_SECTION:activity-->
 
 </details>
