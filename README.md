@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/RequestNetwork/storage-subgraph/issues/20#issuecomment-2999936730) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-2. ❗ Opened issue [#23](https://github.com/RequestNetwork/storage-subgraph/issues/23) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
-3. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-2979444479) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
-4. 🗣 Commented on [#1044](https://github.com/ProvableHQ/sdk/issues/1044#issuecomment-2977303999) in [ProvableHQ/sdk](https://github.com/ProvableHQ/sdk)
-5. ❗ Opened issue [#1044](https://github.com/ProvableHQ/sdk/issues/1044) in [ProvableHQ/sdk](https://github.com/ProvableHQ/sdk)
+1. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-3016668324) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+2. 💪 Opened PR [#1958](https://github.com/Saghen/blink.cmp/pull/1958) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+3. ❗ Opened issue [#1957](https://github.com/Saghen/blink.cmp/issues/1957) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+4. 🗣 Commented on [#20](https://github.com/RequestNetwork/storage-subgraph/issues/20#issuecomment-2999936730) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
+5. ❗ Opened issue [#23](https://github.com/RequestNetwork/storage-subgraph/issues/23) in [RequestNetwork/storage-subgraph](https://github.com/RequestNetwork/storage-subgraph)
 <!--END_SECTION:activity-->
 
 </details>
