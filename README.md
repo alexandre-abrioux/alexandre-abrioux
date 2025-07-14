@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/11) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-2. 🎉 Merged PR [#25](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/25) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-3. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-3016668324) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
-4. 💪 Opened PR [#1958](https://github.com/Saghen/blink.cmp/pull/1958) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-5. ❗ Opened issue [#1957](https://github.com/Saghen/blink.cmp/issues/1957) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+1. 🔒 Closed issue [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+2. 🔒 Closed issue [#1957](https://github.com/Saghen/blink.cmp/issues/1957) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+3. 🗣 Commented on [#1957](https://github.com/Saghen/blink.cmp/issues/1957#issuecomment-3067114099) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+4. 🗣 Commented on [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8#issuecomment-3067113329) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+5. 🎉 Merged PR [#11](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/11) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
 <!--END_SECTION:activity-->
 
 </details>
