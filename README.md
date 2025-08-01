@@ -142,11 +142,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/TheKevJames/tools/issues/453#issuecomment-3070891094) in [TheKevJames/tools](https://github.com/TheKevJames/tools)
-2. 💪 Opened PR [#1309](https://github.com/TheKevJames/tools/pull/1309) in [TheKevJames/tools](https://github.com/TheKevJames/tools)
-3. 🔒 Closed issue [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
-4. 🔒 Closed issue [#1957](https://github.com/Saghen/blink.cmp/issues/1957) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-5. 🗣 Commented on [#1957](https://github.com/Saghen/blink.cmp/issues/1957#issuecomment-3067114099) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+1. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-3140511580) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
+2. 🗣 Commented on [#453](https://github.com/TheKevJames/tools/issues/453#issuecomment-3070891094) in [TheKevJames/tools](https://github.com/TheKevJames/tools)
+3. 💪 Opened PR [#1309](https://github.com/TheKevJames/tools/pull/1309) in [TheKevJames/tools](https://github.com/TheKevJames/tools)
+4. 🔒 Closed issue [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+5. 🔒 Closed issue [#1957](https://github.com/Saghen/blink.cmp/issues/1957) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
 <!--END_SECTION:activity-->
 
 </details>
