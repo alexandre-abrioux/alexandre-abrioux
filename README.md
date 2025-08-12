@@ -143,11 +143,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-3140511580) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
-2. 🗣 Commented on [#453](https://github.com/TheKevJames/tools/issues/453#issuecomment-3070891094) in [TheKevJames/tools](https://github.com/TheKevJames/tools)
-3. 💪 Opened PR [#1309](https://github.com/TheKevJames/tools/pull/1309) in [TheKevJames/tools](https://github.com/TheKevJames/tools)
-4. 🔒 Closed issue [#8](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/issues/8) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
-5. 🔒 Closed issue [#1957](https://github.com/Saghen/blink.cmp/issues/1957) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+1. 🎉 Merged PR [#26](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/26) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+2. 🎉 Merged PR [#12](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/12) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+3. 🗣 Commented on [#1621](https://github.com/RequestNetwork/requestNetwork/pull/1621#issuecomment-3175357113) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+4. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-3140511580) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
+5. 🗣 Commented on [#453](https://github.com/TheKevJames/tools/issues/453#issuecomment-3070891094) in [TheKevJames/tools](https://github.com/TheKevJames/tools)
 <!--END_SECTION:activity-->
 
 </details>
