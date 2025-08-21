@@ -19,6 +19,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - Contributed to [@rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions), an EIP-1559 gas fee forecaster - [#25](https://github.com/rainbow-me/fee-suggestions/pull/25)
 - Contributed to [aave/aave-js](https://github.com/aave/aave-js), the AAVE Javascript SDK - [#114](https://github.com/aave/aave-js/pull/114) - [#115](https://github.com/aave/aave-js/pull/115) - [#117](https://github.com/aave/aave-js/pull/117)
 - Contributed to [cartesi/noether](https://github.com/cartesi/noether), Cartesi's Noether Node - [#1](https://github.com/cartesi/noether/pull/1) - [#3](https://github.com/cartesi/noether/pull/3) - (WIP) [#2](https://github.com/cartesi/noether/pull/2) [#6](https://github.com/cartesi/noether/pull/6) [#9](https://github.com/cartesi/noether/pull/9) [#10](https://github.com/cartesi/noether/pull/10)
+- Contributed to [SolanaNameService/sns-sdk](https://github.com/SolanaNameService/sns-sdk), Solana Name Service SDK  - [#110](https://github.com/SolanaNameService/sns-sdk/pull/110)
 
 #### Node.js
 
