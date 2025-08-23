@@ -144,11 +144,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/27) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-2. 🗣 Commented on [#65](https://github.com/alexandre-abrioux/golem-node/issues/65#issuecomment-3193927439) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🎉 Merged PR [#26](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/26) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-4. 🎉 Merged PR [#12](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/12) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-5. 🗣 Commented on [#1621](https://github.com/RequestNetwork/requestNetwork/pull/1621#issuecomment-3175357113) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+1. 🎉 Merged PR [#1644](https://github.com/RequestNetwork/requestNetwork/pull/1644) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
+2. 🎉 Merged PR [#27](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/27) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+3. 🗣 Commented on [#65](https://github.com/alexandre-abrioux/golem-node/issues/65#issuecomment-3193927439) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. 🎉 Merged PR [#26](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/26) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+5. 🎉 Merged PR [#12](https://github.com/alexandre-abrioux/alexandre-abrioux/pull/12) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
 <!--END_SECTION:activity-->
 
 </details>
