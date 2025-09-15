@@ -144,11 +144,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/28) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-2. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-3241444159) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
-3. 🎉 Merged PR [#38](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/38) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-4. 🎉 Merged PR [#1644](https://github.com/RequestNetwork/requestNetwork/pull/1644) in [RequestNetwork/requestNetwork](https://github.com/RequestNetwork/requestNetwork)
-5. 🎉 Merged PR [#27](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/27) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+1. 🎉 Merged PR [#39](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/39) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+2. 🎉 Merged PR [#40](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/40) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+3. 🎉 Merged PR [#28](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/28) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+4. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-3241444159) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
+5. 🎉 Merged PR [#38](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/38) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
 <!--END_SECTION:activity-->
 
 </details>
