@@ -13,7 +13,7 @@ jobs:
       pull-requests: write
     steps:
       - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
-      - uses: alexandre-abrioux/github-profile-toolbox@5b2336c1c07b707d88e7b49fc81e47dde3332f09 # v1
+      - uses: alexandre-abrioux/github-profile-toolbox@8018f8ab155690ede5b17efc4329e3fb02239848 # v1
       - uses: peter-evans/create-pull-request@271a8d0340265f705b14b6d32b9829c1cb33d45e # v7
         with:
           commit-message: "docs(readme): update toolbox"
