@@ -144,10 +144,10 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417641](https://github.com/NixOS/nixpkgs/issues/417641#issuecomment-3403484920) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🚀 Published release [v0.17.6](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.6) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. ❌ Closed PR [#67](undefined) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🗣 Commented on [#113](https://github.com/folke/lazydev.nvim/pull/113#issuecomment-3241444159) in [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)
+1. 💪 Opened PR [#363](undefined) in [dracula/tmux](https://github.com/dracula/tmux)
+2. 🗣 Commented on [#417641](https://github.com/NixOS/nixpkgs/issues/417641#issuecomment-3403484920) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🚀 Published release [v0.17.6](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.6) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+4. ❌ Closed PR [#67](undefined) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 5. 🎉 Merged PR [#38](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/38) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
 <!--END_SECTION:activity-->
 
