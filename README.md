@@ -144,11 +144,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](undefined) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-2. 🚀 Published release [v1.3.0](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.3.0) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-3. 💪 Opened PR [#43](undefined) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-4. 💪 Opened PR [#363](undefined) in [dracula/tmux](https://github.com/dracula/tmux)
-5. 🗣 Commented on [#417641](https://github.com/NixOS/nixpkgs/issues/417641#issuecomment-3403484920) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#4095](https://github.com/netbirdio/netbird/issues/4095#issuecomment-3504755854) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+2. 💪 Opened PR [#1514](undefined) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
+3. ❌ Closed PR [#16](undefined) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
+4. 🚀 Published release [v1.3.0](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.3.0) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+5. 💪 Opened PR [#43](undefined) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
 <!--END_SECTION:activity-->
 
 </details>
