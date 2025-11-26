@@ -144,11 +144,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1514](https://github.com/starknet-io/starknet.js/pull/1514#issuecomment-3531989311) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
-2. 🗣 Commented on [#4095](https://github.com/netbirdio/netbird/issues/4095#issuecomment-3504755854) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
-3. 💪 Opened PR [#1514](undefined) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
-4. ❌ Closed PR [#16](undefined) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
-5. 🚀 Published release [v1.3.0](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.3.0) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+1. 🗣 Commented on [#1514](https://github.com/starknet-io/starknet.js/pull/1514#issuecomment-3575561274) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
+2. 🗣 Commented on [#1514](https://github.com/starknet-io/starknet.js/pull/1514#issuecomment-3531989311) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
+3. 🗣 Commented on [#4095](https://github.com/netbirdio/netbird/issues/4095#issuecomment-3504755854) in [netbirdio/netbird](https://github.com/netbirdio/netbird)
+4. 💪 Opened PR [#1514](undefined) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
+5. ❌ Closed PR [#16](undefined) in [alexandre-abrioux/alexandre-abrioux](https://github.com/alexandre-abrioux/alexandre-abrioux)
 <!--END_SECTION:activity-->
 
 </details>
