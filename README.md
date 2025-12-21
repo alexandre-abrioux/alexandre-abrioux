@@ -145,11 +145,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1514](undefined) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
-2. 🚀 Published release [v1.3.1](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.3.1) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-3. 🗣 Commented on [#363](https://github.com/dracula/tmux/pull/363#issuecomment-3622287314) in [dracula/tmux](https://github.com/dracula/tmux)
-4. 🔒 Closed issue [#72](https://github.com/alexandre-abrioux/golem-node/issues/72) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. 🗣 Commented on [#72](https://github.com/alexandre-abrioux/golem-node/issues/72#issuecomment-3591737163) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#35](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/35#issuecomment-3655205751) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+2. ❌ Merged PR [#1514](undefined) in [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js)
+3. 🚀 Published release [v1.3.1](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.3.1) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+4. 🗣 Commented on [#363](https://github.com/dracula/tmux/pull/363#issuecomment-3622287314) in [dracula/tmux](https://github.com/dracula/tmux)
+5. 🔒 Closed issue [#72](https://github.com/alexandre-abrioux/golem-node/issues/72) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
