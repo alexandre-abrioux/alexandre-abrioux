@@ -146,11 +146,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#250](https://github.com/mikro-orm/nestjs/issues/250) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
-2. 🎉 Merged PR [#7258](https://github.com/mikro-orm/mikro-orm/pull/7258) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-3. 🗣 Commented on [#7258](https://github.com/mikro-orm/mikro-orm/pull/7258#issuecomment-4016565999) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-4. 💪 Opened PR [#7258](https://github.com/mikro-orm/mikro-orm/pull/7258) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-5. 🔒 Closed issue [#72](https://github.com/alexandre-abrioux/golem-node/issues/72) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#250](https://github.com/mikro-orm/nestjs/issues/250#issuecomment-4066552890) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
+2. 🔒 Closed issue [#250](https://github.com/mikro-orm/nestjs/issues/250) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
+3. 🗣 Commented on [#250](https://github.com/mikro-orm/nestjs/issues/250#issuecomment-4066395021) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
+4. ❗ Opened issue [#250](https://github.com/mikro-orm/nestjs/issues/250) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
+5. 🎉 Merged PR [#7258](https://github.com/mikro-orm/mikro-orm/pull/7258) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
 <!--END_SECTION:activity-->
 
 </details>
