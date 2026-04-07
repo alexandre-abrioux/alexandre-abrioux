@@ -68,6 +68,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - Contributed to [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage), the Google Cloud Storage Terraform module - [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318)
 - Contributed to [joshmedeski/sesh](https://github.com/joshmedeski/sesh), a tmux session manager - [#189](https://github.com/joshmedeski/sesh/pull/189)
 - Contributed to [TheKevJames/tools](https://github.com/TheKevJames/tools) which contains the [`gcloud-pubsub-emulator`](https://hub.docker.com/r/thekevjames/gcloud-pubsub-emulator) Docker image - [#453](https://github.com/TheKevJames/tools/issues/453)
+- Contributed to [dracula/tmux](https://github.com/dracula/tmux), the famous tmux dark theme - [#363](https://github.com/dracula/tmux/pull/363)
 
 ## :hammer_and_wrench: Toolbox
 
