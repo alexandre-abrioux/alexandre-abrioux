@@ -146,11 +146,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/50) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-2. 💪 Opened PR [#50](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/50) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-3. 🗣 Commented on [#250](https://github.com/mikro-orm/nestjs/issues/250#issuecomment-4066552890) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
-4. 🔒 Closed issue [#250](https://github.com/mikro-orm/nestjs/issues/250) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
-5. 🗣 Commented on [#250](https://github.com/mikro-orm/nestjs/issues/250#issuecomment-4066395021) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
+1. 🎉 Merged PR [#363](https://github.com/dracula/tmux/pull/363) in [dracula/tmux](https://github.com/dracula/tmux)
+2. 🎉 Merged PR [#50](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/50) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+3. 💪 Opened PR [#50](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/50) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+4. 🗣 Commented on [#250](https://github.com/mikro-orm/nestjs/issues/250#issuecomment-4066552890) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
+5. 🔒 Closed issue [#250](https://github.com/mikro-orm/nestjs/issues/250) in [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
 <!--END_SECTION:activity-->
 
 </details>
