@@ -42,6 +42,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 #### PHP
 
+- Maintainer of [alexandre-abrioux/webextension-helper](https://github.com/alexandre-abrioux/webextension-helper), a tool to deploy and self-host Firefox extensions
 - Contributed to [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui), a web interface for OPcache - [#15](https://github.com/amnuts/opcache-gui/pull/15)
 - Contributed to [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm), Doctrine's ODM for MongoDB - [#2238](https://github.com/doctrine/mongodb-odm/pull/2238) - [#2246](https://github.com/doctrine/mongodb-odm/pull/2246)
 - Contributed to [schmittjoh/JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle), Symfony Bundle to serialize and deserialize data - [#782](https://github.com/schmittjoh/JMSSerializerBundle/pull/782)
