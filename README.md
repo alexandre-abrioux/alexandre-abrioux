@@ -24,6 +24,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 #### Node.js
 
+- Maintainer of [alexandre-abrioux/ggit-raccoon](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), an [Ollama](https://ollama.com/)-powered Git helper 
 - Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files
 - Contributor of [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet), a Slack `/meet` command that quickly creates a Google Meet conference
 - Contributed to [Node.js](https://github.com/nodejs/node) documentation - [#54477](https://github.com/nodejs/node/pull/54477)
