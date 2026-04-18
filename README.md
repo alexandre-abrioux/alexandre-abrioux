@@ -149,11 +149,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.2](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.2) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
-2. 🚀 Published release [0.1.1](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.1) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
-3. 🚀 Published release [0.1.0](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.0) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
-4. 🎉 Merged PR [#363](https://github.com/dracula/tmux/pull/363) in [dracula/tmux](https://github.com/dracula/tmux)
-5. 🎉 Merged PR [#50](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/50) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+1. ❌ Closed PR [#52](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/52) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+2. 🚀 Published release [0.1.2](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.2) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
+3. 🚀 Published release [0.1.1](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.1) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
+4. 🚀 Published release [0.1.0](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.0) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
+5. 🎉 Merged PR [#363](https://github.com/dracula/tmux/pull/363) in [dracula/tmux](https://github.com/dracula/tmux)
 <!--END_SECTION:activity-->
 
 </details>
