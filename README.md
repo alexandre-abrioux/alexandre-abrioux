@@ -149,11 +149,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/53) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-2. ❌ Closed PR [#52](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/52) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
-3. 🚀 Published release [0.1.2](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.2) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
-4. 🚀 Published release [0.1.1](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.1) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
-5. 🚀 Published release [0.1.0](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.0) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
+1. 🗣 Commented on [#54](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/54#issuecomment-4326037597) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+2. ❌ Closed PR [#55](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/55) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+3. ❌ Closed PR [#53](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/53) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+4. ❌ Closed PR [#52](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/52) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+5. 🚀 Published release [0.1.2](https://github.com/alexandre-abrioux/git-raccoon/releases/tag/0.1.2) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
 <!--END_SECTION:activity-->
 
 </details>
