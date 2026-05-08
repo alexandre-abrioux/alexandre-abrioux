@@ -141,11 +141,11 @@ Added schema validation support to Doctrine MongoDB ODM. The [new feature has be
 
 #### March 2, 2021
 
-My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was featured in one of their [Medium article](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e). It is related to improving the gas price estimation when submitting new blocks.
+My contribution to Cartesi's [Noether Node](https://github.com/cartesi/noether) was [featured on their blog](https://medium.com/cartesi/presenting-the-release-of-noethers-proof-of-stake-version-1-1-85e6a605689e)! It improves gas price estimation when submitting new blocks on-chain.
 
 #### January 14, 2021
 
-My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and take a look at the project over here: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
+My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/golemfactory/hackathons/6/100024411) won one of the four prizes allocated by the Golem organization! Read more on [Golem's Blog article](https://blog.golemproject.net/meet-the-winners-golem-gitcoin-hackathon-2020/) and check out the repo: [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node).
 
 ---
 
