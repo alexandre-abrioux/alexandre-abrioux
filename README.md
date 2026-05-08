@@ -11,7 +11,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 ## :rocket: Projects & Contributions
 
-#### Blockchain
+#### Web3
 
 - Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
 - Contributor on the [RequestNetwork](https://github.com/RequestNetwork/requestNetwork) protocol
