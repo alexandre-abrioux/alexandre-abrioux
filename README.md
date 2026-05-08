@@ -52,12 +52,11 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 #### Rust
 
 - Maintainer of [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox), a GitHub action that generates a toolbox to customize your GitHub profile
-- Contributed to [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev), a lightweight secured SOCKS5 proxy - [#2866](https://github.com/shadowsocks/shadowsocks-libev/pull/2866)
 
 #### Lua
 
 - Maintainer of [blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim), a [blink.cmp](https://github.com/alexandre-abrioux/blink.cmp) source for NPM package completion in Neovim
-- Contributed to [ashell](https://github.com/MalpenZibo/ashell), a status bar for Hyperland - [#720](https://github.com/MalpenZibo/ashell/pull/720)
+- Contributed to [blink.cmp](https://github.com/Saghen/blink.cmp), a completion plugin for Neovim - [#1678](https://github.com/Saghen/blink.cmp/pull/1678) - [#1751](https://github.com/Saghen/blink.cmp/pull/1751)
 
 #### Misc
 
