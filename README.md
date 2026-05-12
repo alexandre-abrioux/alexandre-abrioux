@@ -154,11 +154,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#720](https://github.com/MalpenZibo/ashell/pull/720) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
-2. 🗣 Commented on [#729](https://github.com/MalpenZibo/ashell/pull/729#issuecomment-4404546884) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
-3. 🗣 Commented on [#492](https://github.com/MalpenZibo/ashell/issues/492#issuecomment-4383711285) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
-4. 💪 Opened PR [#729](https://github.com/MalpenZibo/ashell/pull/729) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
-5. ❌ Closed PR [#57](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/57) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+1. ❌ Closed PR [#58](https://github.com/alexandre-abrioux/soundcloud-reverse/pull/58) in [alexandre-abrioux/soundcloud-reverse](https://github.com/alexandre-abrioux/soundcloud-reverse)
+2. 🗣 Commented on [#729](https://github.com/MalpenZibo/ashell/pull/729#issuecomment-4425517632) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
+3. 🎉 Merged PR [#720](https://github.com/MalpenZibo/ashell/pull/720) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
+4. 🗣 Commented on [#729](https://github.com/MalpenZibo/ashell/pull/729#issuecomment-4404546884) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
+5. 🗣 Commented on [#492](https://github.com/MalpenZibo/ashell/issues/492#issuecomment-4383711285) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
 <!--END_SECTION:activity-->
 
 </details>
