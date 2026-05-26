@@ -52,7 +52,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 #### Rust
 
 - Maintainer of [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox), a GitHub action to generate a toolbox in your profile's README 
-- Contributed to [ashell](https://github.com/MalpenZibo/ashell), a status bar for Hyperland - [#720](https://github.com/MalpenZibo/ashell/pull/720)
+- Contributed to [ashell](https://github.com/MalpenZibo/ashell), a status bar for Hyperland - [#720](https://github.com/MalpenZibo/ashell/pull/720) - [#729](https://github.com/MalpenZibo/ashell/pull/729)
 
 #### Lua
 
