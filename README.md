@@ -66,7 +66,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - Contributed to [predatorray/shadowsocks-helm-chart](https://github.com/predatorray/shadowsocks-helm-chart), an Helm Chart for Shadowsocks - [#1](https://github.com/predatorray/shadowsocks-helm-chart/pull/1) - [#2](https://github.com/predatorray/shadowsocks-helm-chart/pull/2)
 - Contributed to [xdg/xdg-utils](https://gitlab.freedesktop.org/xdg/xdg-utils), a set of scripts for Free Desktop integration - [#35](https://gitlab.freedesktop.org/xdg/xdg-utils/-/merge_requests/35)
 - Contributed to [g-plane/pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion), a shell completion script for Pnpm - [#19](https://github.com/g-plane/pnpm-shell-completion/pull/19)
-- Contributed to [Hyprland's wiki](https://github.com/hyprwm/hyprland-wiki) - [#679](https://github.com/hyprwm/hyprland-wiki/pull/679)
+- Contributed to [Hyprland's wiki](https://github.com/hyprwm/hyprland-wiki) - [#679](https://github.com/hyprwm/hyprland-wiki/pull/679) - [#1545](https://github.com/hyprwm/hyprland-wiki/pull/1545)
 - Contributed to [rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)'s documentation, a cursor theme for Hyprland - [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4)
 - Contributed to [terraform-google-modules/terraform-google-cloud-storage](https://github.com/terraform-google-modules/terraform-google-cloud-storage), the Google Cloud Storage Terraform module - [#318](https://github.com/terraform-google-modules/terraform-google-cloud-storage/pull/318)
 - Contributed to [joshmedeski/sesh](https://github.com/joshmedeski/sesh), a tmux session manager - [#189](https://github.com/joshmedeski/sesh/pull/189)
