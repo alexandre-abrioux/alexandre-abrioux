@@ -154,11 +154,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1545](https://github.com/hyprwm/hyprland-wiki/pull/1545) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-2. 💪 Opened PR [#1545](https://github.com/hyprwm/hyprland-wiki/pull/1545) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-3. 🚀 Published release [v1.3.2](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.3.2) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
-4. 🎉 Merged PR [#729](https://github.com/MalpenZibo/ashell/pull/729) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
-5. 🗣 Commented on [#729](https://github.com/MalpenZibo/ashell/pull/729#issuecomment-4486179721) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
+1. 🗣 Commented on [#34](https://github.com/voronianski/soundcloud-audio.js/pull/34#issuecomment-4664255089) in [voronianski/soundcloud-audio.js](https://github.com/voronianski/soundcloud-audio.js)
+2. 🎉 Merged PR [#1545](https://github.com/hyprwm/hyprland-wiki/pull/1545) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+3. 💪 Opened PR [#1545](https://github.com/hyprwm/hyprland-wiki/pull/1545) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+4. 🚀 Published release [v1.3.2](https://github.com/alexandre-abrioux/github-profile-toolbox/releases/tag/v1.3.2) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+5. 🎉 Merged PR [#729](https://github.com/MalpenZibo/ashell/pull/729) in [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)
 <!--END_SECTION:activity-->
 
 </details>
