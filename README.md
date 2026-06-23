@@ -58,6 +58,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 - Maintainer of [blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim), a [blink.cmp](https://github.com/alexandre-abrioux/blink.cmp) source for NPM package completion in Neovim
 - Contributed to [blink.cmp](https://github.com/Saghen/blink.cmp), a completion plugin for Neovim - [#1678](https://github.com/Saghen/blink.cmp/pull/1678) - [#1751](https://github.com/Saghen/blink.cmp/pull/1751)
+- Contributed to [code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim), a Neovim plugin to interact with Claude Code in tmux - [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19)
 
 #### Misc
 
