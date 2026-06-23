@@ -154,11 +154,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/davidraviv/gh-clean-branches/pull/24) in [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches)
-2. 💪 Opened PR [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19) in [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim)
-3. 🗣 Commented on [#2](https://github.com/alexandre-abrioux/git-raccoon/pull/2#issuecomment-4708407301) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
-4. 🗣 Commented on [#34](https://github.com/voronianski/soundcloud-audio.js/pull/34#issuecomment-4664255089) in [voronianski/soundcloud-audio.js](https://github.com/voronianski/soundcloud-audio.js)
-5. 🎉 Merged PR [#1545](https://github.com/hyprwm/hyprland-wiki/pull/1545) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+1. 🎉 Merged PR [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19) in [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim)
+2. 🎉 Merged PR [#24](https://github.com/davidraviv/gh-clean-branches/pull/24) in [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches)
+3. 💪 Opened PR [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19) in [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim)
+4. 🗣 Commented on [#2](https://github.com/alexandre-abrioux/git-raccoon/pull/2#issuecomment-4708407301) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
+5. 🗣 Commented on [#34](https://github.com/voronianski/soundcloud-audio.js/pull/34#issuecomment-4664255089) in [voronianski/soundcloud-audio.js](https://github.com/voronianski/soundcloud-audio.js)
 <!--END_SECTION:activity-->
 
 </details>
