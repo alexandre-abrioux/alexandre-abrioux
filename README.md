@@ -155,11 +155,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19) in [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim)
-2. 🎉 Merged PR [#24](https://github.com/davidraviv/gh-clean-branches/pull/24) in [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches)
-3. 💪 Opened PR [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19) in [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim)
-4. 🗣 Commented on [#2](https://github.com/alexandre-abrioux/git-raccoon/pull/2#issuecomment-4708407301) in [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon)
-5. 🗣 Commented on [#34](https://github.com/voronianski/soundcloud-audio.js/pull/34#issuecomment-4664255089) in [voronianski/soundcloud-audio.js](https://github.com/voronianski/soundcloud-audio.js)
+1. 🗣 Commented on [#417641](https://github.com/NixOS/nixpkgs/issues/417641#issuecomment-4739590086) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ℹ️ Reopened PR [#72](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/72) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+3. ❌ Closed PR [#72](https://github.com/alexandre-abrioux/github-profile-toolbox/pull/72) in [alexandre-abrioux/github-profile-toolbox](https://github.com/alexandre-abrioux/github-profile-toolbox)
+4. 🎉 Merged PR [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19) in [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim)
+5. 🎉 Merged PR [#24](https://github.com/davidraviv/gh-clean-branches/pull/24) in [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches)
 <!--END_SECTION:activity-->
 
 </details>
