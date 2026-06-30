@@ -1,13 +1,10 @@
 [linkedin]: https://www.linkedin.com/in/alexandre-abrioux/
 
-## :house: Hi there! <img src="https://raw.githubusercontent.com/alexandre-abrioux/alexandre-abrioux/master/wave.gif" width="30px">
+## :house: Hi there!
 
-I'm Alex, software architect at [Request](https://www.request.finance/)—a crypto payment solution for business.
-You'll find here a mix of personal projects and open-source contributions that represent steps in my journey of continuous learning and passion for coding.
-
-## :handshake: Let's Connect
-
-I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out on [LinkedIn]!
+I'm Alex, software architect at [Request](https://www.request.finance/), a crypto payment solution for business.
+Here you'll find personal projects and open-source contributions that reflect my passion for coding.
+Feel free to reach out on [LinkedIn]!
 
 ## :rocket: Projects & Contributions
 
