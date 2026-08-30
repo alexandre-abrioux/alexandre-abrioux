@@ -152,11 +152,11 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.17.10](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.10) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-2. 🚀 Published release [v0.17.9](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.9) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-3. 🗣 Commented on [#102](https://github.com/alexandre-abrioux/golem-node/pull/102#issuecomment-5165702612) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-4. 🗣 Commented on [#103](https://github.com/alexandre-abrioux/golem-node/pull/103#issuecomment-5165690658) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
-5. ❌ Closed PR [#103](https://github.com/alexandre-abrioux/golem-node/pull/103) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#9](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/9#issuecomment-5468227674) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+2. 🎉 Merged PR [#10](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/10) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+3. 💪 Opened PR [#10](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/10) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
+4. 🚀 Published release [v0.17.10](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.10) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+5. 🚀 Published release [v0.17.9](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.17.9) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
 <!--END_SECTION:activity-->
 
 </details>
