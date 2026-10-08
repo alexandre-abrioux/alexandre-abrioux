@@ -10,7 +10,7 @@ Feel free to reach out on [LinkedIn]!
 
 #### Web3
 
-- Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
+- (archived) Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
 - Contributor on the [RequestNetwork](https://github.com/RequestNetwork/requestNetwork) protocol
 - Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - [#59366](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) - [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59762)
 - Contributed to [@rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions), an EIP-1559 gas fee forecaster - [#25](https://github.com/rainbow-me/fee-suggestions/pull/25)
@@ -22,7 +22,7 @@ Feel free to reach out on [LinkedIn]!
 #### Node.js
 
 - Maintainer of [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon), an [Ollama](https://ollama.com/)-powered Git helper
-- Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files
+- (archived) Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files
 - Contributor of [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet), a Slack `/meet` command that quickly creates a Google Meet conference
 - Contributed to [Node.js](https://github.com/nodejs/node) documentation - [#54477](https://github.com/nodejs/node/pull/54477)
 - Contributed to [axios](https://github.com/axios/axios), an HTTP client for the browser and Node.js - [#6362](https://github.com/axios/axios/pull/6362)
