@@ -10,7 +10,7 @@ Feel free to reach out on [LinkedIn]!
 
 #### Web3
 
-- (archived) Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Dockerized version of New Golem Node
+- (archived) Maintainer of [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node), a Docker wrapper for the Golem Network Provider Node
 - Contributor on the [RequestNetwork](https://github.com/RequestNetwork/requestNetwork) protocol
 - Generated types for [ethereum-block-by-date](https://github.com/monosux/ethereum-block-by-date), an Ethereum block finder by date - [#59366](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59366) - [#59762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59762)
 - Contributed to [@rainbow-me/fee-suggestions](https://github.com/rainbow-me/fee-suggestions), an EIP-1559 gas fee forecaster - [#25](https://github.com/rainbow-me/fee-suggestions/pull/25)
