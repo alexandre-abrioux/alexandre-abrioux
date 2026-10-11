@@ -23,7 +23,7 @@ Feel free to reach out on [LinkedIn]!
 
 - Maintainer of [alexandre-abrioux/git-raccoon](https://github.com/alexandre-abrioux/git-raccoon), an [Ollama](https://ollama.com/)-powered Git helper
 - (archived) Maintainer of [alexandre-abrioux/gulp-rev-dist-clean](https://github.com/alexandre-abrioux/gulp-rev-dist-clean), a [gulp-rev](https://github.com/sindresorhus/gulp-rev) plugin to prune temporary files
-- Contributor of [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet), a Slack `/meet` command that quickly creates a Google Meet conference
+- Contributor to [benjlevesque/slack-meet](https://github.com/benjlevesque/slack-meet), a Slack `/meet` command that quickly creates a Google Meet conference
 - Contributed to [Node.js](https://github.com/nodejs/node) documentation - [#54477](https://github.com/nodejs/node/pull/54477)
 - Contributed to [axios](https://github.com/axios/axios), an HTTP client for the browser and Node.js - [#6362](https://github.com/axios/axios/pull/6362)
 - Contributed to [axios-logger](https://github.com/hg-pyun/axios-logger), an Axios logging middleware - [#97](https://github.com/hg-pyun/axios-logger/pull/97)
@@ -56,6 +56,7 @@ Feel free to reach out on [LinkedIn]!
 - Maintainer of [blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim), a [blink.cmp](https://github.com/alexandre-abrioux/blink.cmp) source for NPM package completion in Neovim
 - Contributed to [blink.cmp](https://github.com/Saghen/blink.cmp), a completion plugin for Neovim - [#1678](https://github.com/Saghen/blink.cmp/pull/1678) - [#1751](https://github.com/Saghen/blink.cmp/pull/1751)
 - Contributed to [code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim), a Neovim plugin to interact with Claude Code in tmux - [#19](https://github.com/samir-roy/code-bridge.nvim/pull/19)
+- Contributed to [vgit.nvim](https://github.com/tanvirtin/vgit.nvim), a Git plugin for Neovim - [#440](https://github.com/tanvirtin/vgit.nvim/pull/440)
 
 #### Misc
 
