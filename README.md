@@ -153,8 +153,8 @@ My submission to Gitcoin's [Hack New Golem bounty](https://gitcoin.co/issue/gole
   <summary>:zap: Recent GitHub Activity (public repositories only)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#440](https://github.com/tanvirtin/vgit.nvim/pull/440) in [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)
-2. 🚀 Published release [v0.18.0](https://github.com/alexandre-abrioux/golem-node/releases/tag/v0.18.0) in [alexandre-abrioux/golem-node](https://github.com/alexandre-abrioux/golem-node)
+1. 🗣 Commented on [#1](https://github.com/alexandre-abrioux/webextension-helper/issues/1#issuecomment-7084633990) in [alexandre-abrioux/webextension-helper](https://github.com/alexandre-abrioux/webextension-helper)
+2. 🔒 Closed issue [#1](https://github.com/alexandre-abrioux/webextension-helper/issues/1) in [alexandre-abrioux/webextension-helper](https://github.com/alexandre-abrioux/webextension-helper)
 3. 💪 Opened PR [#440](https://github.com/tanvirtin/vgit.nvim/pull/440) in [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)
 4. 🎉 Merged PR [#10](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/10) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
 5. 💪 Opened PR [#10](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim/pull/10) in [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim)
